@@ -5,4 +5,12 @@ layout: default
 
 This is the index content
 
-{% include grave_list.html %}
+<div id="grave-list">
+	<ul>
+		{% for grave in site.data.graves %}
+			<li>
+				<b>{{ grave.surname }}</b>, {{ grave.forenames }} died {{ grave.date_of_death }} at the age of {{ grave.age }}
+			</li>
+		{% endfor %}
+	</ul>
+</div>
