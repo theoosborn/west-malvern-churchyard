@@ -3,6 +3,8 @@
 
 @import 'list';
 
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Source+Sans+Pro&display=swap');
+
 .main {
   max-width: 800px;
   margin: 0 auto;
@@ -14,8 +16,10 @@
 
 .header h1 {
   margin: 0.1em 0;
+  font-family: 'Libre Baskerville', serif;
 }
 
 body {
   font-size: 1.2em;
+  font-family: 'Source Sans Pro', sans-serif;
 }
