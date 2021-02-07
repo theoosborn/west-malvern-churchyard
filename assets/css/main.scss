@@ -1,5 +1,13 @@
 ---
 ---
 
-@import 'normalize';
-@import 'leaflet/leaflet';
+@import 'list';
+
+.main {
+  width: 800px;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+}

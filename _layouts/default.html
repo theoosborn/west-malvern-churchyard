@@ -3,21 +3,50 @@
 	<head>
 		<meta charset="utf-8">
 		<title>{{ page.title }} | {{ site.title }}</title>
+		<link href="https://unpkg.com/@csstools/normalize.css" rel="stylesheet" />
+		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha512-xodZBNTC5n17Xt2atTPuE1HxjVMSvLVW9ocqUKLsCC5CXdbqCmblAshOMAS6/keqq/sMZMZ19scR4PsZChSR7A==" crossorigin=""/>
 		<link rel="stylesheet" href="/assets/css/main.css" />
-		<script src="/assets/js/leaflet.js"></script>
-		<script src="/assets/js/list.min.js"></script>
+		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha512-XQoYMqMTK8LvdxXYG3nZ448hOEQiglfqkJs1NOQV44cWnUrBc8PkAOcXy20w0vlaXaVUearIOBhiXZ5V3ynxwA==" crossorigin=""></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/list.js/2.3.1/list.min.js"></script>
 	</head>
 	<body>
-		<nav>
-			<a href="/">Home</a>
-			<a href="/about/">Blog</a>
-		</nav>
-		<h1>{{ page.title }}</h1>
-		<section>
-			{{ content }}
-		</section>
-		<footer>
-			Footer text
-		</footer>
+		<div class="main">
+			<header class="header">
+				<h1>{{ site.title }}</h1>
+				<nav>
+					<a href="/">Home</a>
+					<a href="/about/">Blog</a>
+				</nav>
+			</header>
+			<h1>{{ page.title }}</h1>
+			<section>
+				{{ content }}
+			</section>
+			<footer>
+				Footer text
+			</footer>
+		</div>
 	</body>
+	<script>
+		var options = {
+			valueNames: ['name'],
+			page: 3,
+			pagination: true
+		};
+
+		var graveList = new List('graveList', options);
+
+		var map = L.map('mapId', {
+			center: [40.75, -74.2],
+			zoom: 13
+		});
+
+		var svgURL = '/assets/images/test_map.svg',
+			svgBounds = [
+				[40.712216, -74.22655],
+				[40.773941, -74.12544]
+			];
+
+		L.imageOverlay(svgURL, svgBounds).addTo(map);
+	</script>
 </html>

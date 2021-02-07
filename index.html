@@ -3,14 +3,20 @@ title: Home
 layout: default
 ---
 
-This is the index content
+Welcome!
 
-<div id="grave-list">
-	<ul>
+<div id="graveList">
+	<input type="text" class="search" placeholder="Search here" />
+	Sort by:
+	<span class="sort" data-sort="name">Name</span>
+	<ul class="list">
 		{% for grave in site.data.graves %}
 			<li>
-				<b>{{ grave.surname }}</b>, {{ grave.forenames }} died {{ grave.date_of_death }} at the age of {{ grave.age }}
+				<b class="name">{{ grave.surname }}</b>, {{ grave.forenames }} died {{ grave.date_of_death }} at the age of {{ grave.age }}
 			</li>
 		{% endfor %}
 	</ul>
+	<ul class="pagination"></ul>
 </div>
+
+<div id="mapId" style="height: 50vh;"></div>
