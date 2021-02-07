@@ -1,56 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<title>{{ page.title }} | {{ site.title }}</title>
-		<link rel="stylesheet" href="https://unpkg.com/@csstools/normalize.css" integrity="sha384-2ir/eD485+es3iwRz5Nw/2C9bGbEVPJYQ2egSJcoYzNe+5jmsY8VH8zbgktLDVXc" crossorigin="anonymous">
-		<link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha384-VzLXTJGPSyTLX6d96AxgkKvE/LRb7ECGyTxuwtpjHnVWVZs2gp5RDjeM/tgBnVdM" crossorigin="anonymous">
-		<link rel="stylesheet" href="/assets/css/main.css" />
-		<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha384-RFZC58YeKApoNsIbBxf4z6JJXmh+geBSgkCQXFyh+4tiFSJmJBt+2FbjxW7Ar16M" crossorigin="anonymous"></script>
-		<script src="https://cdn.jsdelivr.net/npm/list.js@2.3.1/dist/list.min.js" integrity="sha256-NEVvGNMGqFvs6adGLZjm5sLgcuX9rGTg1wlGtA1f7M8=" crossorigin="anonymous"></script>
-	</head>
-	<body>
-		<div class="main">
-			<header class="header">
-				<h1>{{ site.title }}</h1>
-				<nav class="navigation">
-					<ol>
-						{% for item in site.data.navigation %}
-							<li>
-								<a href="{{ item.url }}" {% if item.title == page.title %}class="active"{% endif %}>{{ item.title }}</a>
-							</li>
-						{% endfor %}
-					</ol>
-				</nav>
-			</header>
-			<section>
-				{{ content }}
-			</section>
-			<footer>
-				Footer text
-			</footer>
-		</div>
-	</body>
-	<script>
-		var options = {
-			valueNames: ['name'],
-			page: 3,
-			pagination: true
-		};
-
-		var graveList = new List('graveList', options);
-
-		var map = L.map('mapId', {
-			center: [40.75, -74.2],
-			zoom: 13
-		});
-
-		var svgURL = '/assets/images/test_map.svg',
-			svgBounds = [
-				[40.712216, -74.22655],
-				[40.773941, -74.12544]
-			];
-
-		L.imageOverlay(svgURL, svgBounds).addTo(map);
-	</script>
+    <head>
+        <meta charset="utf-8">
+        <title>{{ page.title }} | {{ site.title }}</title>
+        <link rel="stylesheet" href="https://unpkg.com/@csstools/normalize.css" integrity="sha384-2ir/eD485+es3iwRz5Nw/2C9bGbEVPJYQ2egSJcoYzNe+5jmsY8VH8zbgktLDVXc" crossorigin="anonymous">
+        <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha384-VzLXTJGPSyTLX6d96AxgkKvE/LRb7ECGyTxuwtpjHnVWVZs2gp5RDjeM/tgBnVdM" crossorigin="anonymous">
+        <link rel="stylesheet" href="/assets/css/main.css" />
+        <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js" integrity="sha384-RFZC58YeKApoNsIbBxf4z6JJXmh+geBSgkCQXFyh+4tiFSJmJBt+2FbjxW7Ar16M" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/list.js@2.3.1/dist/list.min.js" integrity="sha256-NEVvGNMGqFvs6adGLZjm5sLgcuX9rGTg1wlGtA1f7M8=" crossorigin="anonymous"></script>
+    </head>
+    <body>
+        <div class="main">
+            <header class="header">
+                <h1>{{ site.title }}</h1>
+                <nav class="navigation">
+                    <ol>
+                        {% for item in site.data.navigation %}
+                            <li>
+                                <a href="{{ item.url }}" {% if item.title == page.title %}class="active"{% endif %}>{{ item.title }}</a>
+                            </li>
+                        {% endfor %}
+                    </ol>
+                </nav>
+            </header>
+            <section>
+                {{ content }}
+            </section>
+            <footer>
+                Footer text
+            </footer>
+        </div>
+    </body>
+    {% for javascript in page.custom-javascript %}
+        <script src="{{ javascript }}"></script>
+    {% endfor %}
 </html>
