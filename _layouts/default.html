@@ -13,9 +13,12 @@
 		<div class="main">
 			<header class="header">
 				<h1>{{ site.title }}</h1>
-				<nav>
-					<a href="/">Home</a>
-					<a href="/about/">Blog</a>
+				<nav class="navigation">
+					<ol>
+						{% for item in site.data.navigation.links %}
+							<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+						{% endfor %}
+					</ol>
 				</nav>
 			</header>
 			<section>

@@ -1,9 +1,10 @@
 ---
 ---
 
-@import 'list';
-
 @import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Source+Sans+Pro&display=swap');
+
+@import 'list';
+@import 'navigation';
 
 .main {
   max-width: 800px;
