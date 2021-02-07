@@ -37,3 +37,9 @@ a {
 a:hover {
   text-decoration: underline;
 }
+@media (prefers-color-scheme: dark) {
+  html {
+    background-color: #20201f;
+    color: #e6e9e9;
+  }
+}
