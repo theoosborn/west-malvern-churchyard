@@ -2,6 +2,7 @@
 <html lang="en">
     <head>
         <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>{{ page.title }} | {{ site.title }}</title>
         <link rel="stylesheet" href="https://unpkg.com/@csstools/normalize.css" integrity="sha384-2ir/eD485+es3iwRz5Nw/2C9bGbEVPJYQ2egSJcoYzNe+5jmsY8VH8zbgktLDVXc" crossorigin="anonymous">
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" integrity="sha384-VzLXTJGPSyTLX6d96AxgkKvE/LRb7ECGyTxuwtpjHnVWVZs2gp5RDjeM/tgBnVdM" crossorigin="anonymous">
@@ -10,7 +11,7 @@
         <script src="https://cdn.jsdelivr.net/npm/list.js@2.3.1/dist/list.min.js" integrity="sha256-NEVvGNMGqFvs6adGLZjm5sLgcuX9rGTg1wlGtA1f7M8=" crossorigin="anonymous"></script>
     </head>
     <body>
-        <div class="main">
+        <div class="content">
             <header class="header">
                 <h1>{{ site.title }}</h1>
                 <nav class="navigation">
@@ -26,10 +27,12 @@
             <section>
                 {{ content }}
             </section>
-            <footer>
-                Footer text
-            </footer>
         </div>
+        <footer class="footer">
+            <p>
+                Website designed by Theo Osborn
+            </p>
+        </footer>
     </body>
     {% for javascript in page.custom-javascript %}
         <script src="{{ javascript }}"></script>
