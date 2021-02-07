@@ -1,7 +1,7 @@
-links:
-  - title: Home
-    url: /
-  - title: Graves
-    url: /graves.html
-  - title: Map
-    url: /map.html
+- title: Introduction
+  url: /
+- title: Graves
+  url: /graves.html
+- title: Map
+  url: /map.html
+  

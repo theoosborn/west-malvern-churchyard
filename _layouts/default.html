@@ -15,8 +15,10 @@
 				<h1>{{ site.title }}</h1>
 				<nav class="navigation">
 					<ol>
-						{% for item in site.data.navigation.links %}
-							<li><a href="{{ item.url }}">{{ item.title }}</a></li>
+						{% for item in site.data.navigation %}
+							<li>
+								<a href="{{ item.url }}" {% if item.title == page.title %}class="active"{% endif %}>{{ item.title }}</a>
+							</li>
 						{% endfor %}
 					</ol>
 				</nav>

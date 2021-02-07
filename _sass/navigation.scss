@@ -1,5 +1,10 @@
 .navigation li {
   display: inline-block;
+  margin: auto 0.4em;
+}
+
+.navigation li a.active {
+  font-weight: bold;
 }
 
 .navigation ol {
