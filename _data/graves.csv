@@ -1,6 +1,696 @@
-surname,forenames,date_of_death,age,notes,id,type
-ACKRILL, Gertrude M, 3 Feb 1978, 62,,A83,Hst
-BCKRILL, Gertrude M, 3 Feb 1978, 62,,A83,Hst
-CCKRILL, Gertrude M, 3 Feb 1978, 62,,A83,Hst
-DCKRILL, Gertrude M, 3 Feb 1978, 62,,A83,Hst
-ECKRILL, Gertrude M, 3 Feb 1978, 62,,A83,Hst
+SURNAME,FORENAMES,DATE of DEATH,AGE,NOTES,GRAVE NO
+ACKRILL,Gertrude M,3 Feb 1978,62,,A83 Hst
+ADAMS,Edith Mary,22 Jul 1985,79,,A120 Hst
+ANDREWS,George Percy,3 Sept 1982,76,,A57 Hst
+ANDREWS,Dorothy Celia,13 Jun 2007,93,Wife of above,A57 Hst
+ARMSTRONG,Hampden Vincent,21 Nov 1961,,Priest,A94 Hst
+AUSTEN,Caroline Amelia,14 May 1929,,Wife of Henry Alfred,C249 StXKg
+AUSTEN,Henry Alfred,24 Mar 1935,,Captain,C249 StXKg
+BAGULEY,Herbert,18 Aug 1942,,,C370 Kg
+BAGULEY,Mary E.,21 Mar 1948,,,C370 Kg
+BAIRD,Georgina Marion,4 May 1922,,Born 9 Dec 1876,C355 StX
+BAKER,Edith Gladys,16 Mar 1964,,Born 28 Apr 1912,A239 Gst
+BAKER,Reginald,16 Aug 1964,,Born 20 Jun 1909,A239 Gst
+BAKER,Dennis Wilfred,17 Aug 2003,,Born 2 Feb 1920,B173 Hst
+BAKER,Catherine Louisa,30 Sep 2008,,Born 30 Oct 1921 Wife of above,B173 Hst
+BALLINGER,Sarah M,2 Mar 1927,,Mother of Elizabeth Law,C311 Hst
+BALLINGER,Herbert John,Oct 1952,,,C322 Gstkg
+BALLINGER,Elsie Miriam,Mar 1959,,Wife of above,C322 Gstkg
+BALLINGER,Wallace,16 Apr 1944,56,,C372 Hst
+BALLINGER,Florence Kate,20 Apr 1969,78,Wife of above,C372 Hst
+BANFORD,Frances Elizabeth,19 Nov 1883,31,"Wife of Rev Edwin Banford<br>Born 9 Aug 1852",A45 Hstkg
+BANNING,George,5 Mar 1938,65,,C396 Hstkg
+BARNES,James,19 Nov 1884,66,,B136 StX
+BARNES,Melina,24 Jan 1892,,Wife of above,B136 StX
+BARON,Hugh,2017,,Born 1946,B140 Hst
+BASKERVILLE,Annie E,30 Mar 1964,60,'of Model Farm',A132 Hst
+BASKERVILLE,Norman,22 Jan 1972,71,Husband of Annie,A132 Hst
+BATHURST,Tom Kellick,12 Jun 1988,,Born 27 Oct 1896,A124 Hst
+BATHURST,Rosina Beatrice,20 Jul 1993,,Born 6 Feb 1901 Wife of Tom,A124 Hst
+BEALE,Mary Jane,4 Jun 1972,54,,A128 Hst
+BEALE,Arthur,9 Sept 1974,59,Husband of Mary Jane,A128 Hst
+BEAN,Frances Eliza,6 June 1864,,Widow of Major George Bean R.H.A.,M19 Plaq
+BEARD,Alice,19 Jan 1973,78,,A64 Hst
+BEARD,George,14 Oct 1980,86,,A64 Hst
+BEARD,Alfred,23 July 1973,46,Son of Alice and George,A64 Hst
+BEDINGTON,Hannah,17 Mar 1907,,Wife of Henry Born 30 Dec 1840,B219 StXenc
+BENNETT,Alec,29 Jan 1973,,Born 9 Oct 1896,B196 plaq
+BENNETT,Mabel,3 Ap 1982,,Born 3 Feb 1898,B196 plaq
+BENNETT,Godfrey Alexander,9 Oct 2002,,Born 11 Jan 1927,B196 plaq
+BENNETT,Barbara Teresa,14 Jun 2010,,Born 7 Sept 1929,B196 plaq
+BENNETT,Audrey Cicily Dorothy,10 Feb 2016,,Born 9 Oct 1933. 4 Bennett plaques under a cherry tree,B196 plaq
+BENTLEY,Colin Anthony,14 Nov 2014,,Born 10 Ap 1949,A37 no Hst
+BENTLEY,William,12 Apr 1937,74,,C281 Hst
+BENTLEY,Kate,9 Sept 1937,79,Wife of above,C281 Hst
+BIDEN,Mary,24 Aug 1897,69,Widow of Joseph Biden,B225 StXK
+BIGGIN,Rose Delilah,1951,,Born 1872,C266 Hstkg
+BIGGIN,Frederick Murrow,1953,,Born 1872,C266 Hstkg
+BIGGIN,Annie Maud,2 Dec 2006,,Born 9 Dec 1909,C266 plaq
+BIGGS,Fanny Elizabeth,10 Mar 1928,65,,C258 Kg
+BIGGS,James,10 Feb 1917,,Born 27 August 1885,C261 IronX
+BIRD,Alice Emma,18 Jan 1941,83,,C421 Hst
+BISHOP,Thomas,8 Aug 1875,65,,A31 Hst
+BISHOP,Jane,7 Nov 1890,77,Wife of Thomas,A31 Hst
+BISHOP,Alice E,26 Jan 1951,76,,C337 Hstkg
+BISHOP,Percy,9 Nov 1921,18,Son of above,C337 Hstkg
+BLEBY,Violet Abigail,8 Jan 1980,,Born 8 May 1904,A58 Hst
+BOMFORD,Frank Oliver,8 Jun 1924,69,Also plaque in church M24,C443 StXkg
+BOMFORD,Edith,8 Jun 1935,68,Wife of above,C443 StXkg
+BRAZIER,Betty Doreen,5 Oct 1989,57,,A35 Hst
+BRAZIER,Alfred Roy,24 Mar 2009,77,Husband of Betty Doreen,A35 Hst
+BRAZIER,Lilian Sarah,24 Aug 1970,72,,A66 WX
+BRAZIER,James Edwin,28 Jan 1971,72,,A66 WX
+BRAZIER,Coreen,19 Dec 1961,54,,A92 Hst
+BRAZIER,Alfred John,8 Oct 1979,74,,A92 Hst
+BRAZIER,Ronald (Tim),2018,,Born 1925,B134 Hst
+BRAZIER,Henry,9 Apr 1933,67,,C411 Hstkg
+BRAZIER,Alice,1954,,Born 1862 wife of above,C411 Hstkg
+BRIERLEY,Sydney Herbert,4 Jan 1930,,,C256 StXkg
+BROOKE,Syrena,2 Oct 1929,,,C257 Kg
+BROOKES,Annie,26 Oct 1926,59,,C309 Kg
+BROOKES,Charles,24 Feb 1933,70,Husband of above,C309 Kg
+BROOKS,Albert,18 May 1907,39,,B216 StX
+BROWNING,Caroline Emma,16 Nov 1938,72,,C397 Hstkg
+BROWNING,Frederick Joseph,19 Mar 1942,85,Husband of above,C397 Hstkg
+BUCKLE,Hester Eliza,1910,,"Widow Rev Buckle, born 1837",A111 StXkg
+BURFORD,Samuel Henry,11 Feb 1999,,Harry’ Born 11 May 1911,B186 Hst
+BURFORD,Annie Beatrice,3 Feb 2013,,Betty’ Born 18 Sept 1918,B186 Hst
+BURFORD,Gerald Samuel,21 Aug 1952,,Born 12 Sept 1940,C321 Hst Kg
+BURROW,Hannah Caroline,5 May 1859,22,Wife of John Severn Burrow,A74 Gst
+BURROWS,Walter A,14 May 1922,,,C447 Kg
+BUTCHERS,Catherine A,7 Oct 1992,79,,B146 Hst
+CAMPBELL,Edith,9 Mar 1982,65,Wife of John Ernest Campbell,A49 Hst
+CAMPBELL,John Ernest,June 1988,,Born June 1910,A49 Hst
+CANNING,John Samuel,26 Jun 1903,,Born 8 May 1824,B204 Kenc
+CANNING,Marian,21 May 1908,,,B204 Kenc
+CANNON,Mary A,1 Jun 1946,,,C374 Kg
+CARTER,Eric Brewer,8 Jun 1985,52,,A118 Hst
+CHAMBERLAIN,Louisa Jane,30 Mar 1879,,Born June 1864,A46 StXkg
+CHANCE,Ann,19 Feb 1895,73,,A22 Hst
+CHANCE,Thomas Edward Wilson,2 Apr 1928,72,,C244 Hstkg
+CHANCE,Amy Jane,27 Feb 1929,51,Wife of above,C244 Hstkg
+CHANDLER,Roland W,7 Feb 1952,73,,C264 Kgstone
+CHANDLER,Fanny Margery,6 Sep 1977,93,,C264 Kgstone
+CHARSLEY,William Henry,2 Nov 1900,80,Of Oxford,B176 Hstk
+CLAPTON,Jane,27 Dec 1950,75,,C379 Hstkg
+CLAPTON,Alice,10 Apr 1951,85,Sister of above,C379 Hstkg
+CHARSLEY,Julia Elizabeth,18 Jul 1924,,Born 27 Sept 1854,B176 Hstk
+CLARE,Percy,15 May 1937,,,C282 Hst
+CLARE,Catherine M,28 Nov 1958,,,C282 Hst
+CLARE,Dorothy,6 Aug 1982,,Born 10 Feb 1905,C282 Hst
+CLIFFORD,Winifred,3 Jun 1918,14,,C260 Hstkg
+CLIFFORD,William,28 Nov 1916,52,,C301 Hstkg
+CLIFFORD,Amelia,27 Sept 1922,64,Wife of above,C301 Hstkg
+CLIVE,Charlotte H,25 Aug 1919,76,,C319 StXkg
+COCK,Charles Hornblower,8 Jan 1907,56,,A112 StXk
+COCK,Humphrey Charles Castle,11 May 1912,18,"Drowned at sea, son of Charles Hornblower",A112 StXk
+COLEMAN,Eric Ralph,10 Mar 1943,,Aged 10 months,C308 Kg plaq
+COLEMAN,Florence Mayfield,28 Feb 1972,69,,C308 Kg plaq
+COLEMAN,James,25 Mar 1947,89,,C407 Kg
+COLEMAN,Fanny,5 Aug 1956,83,,C407 Kg
+COLEMAN,Reginald,24 Apr 1965,63,,C407 Kg
+COLLICOTT,Mary,11 Jun 1886,90,Of Mount Pleasant WM,A127 Hst
+COLLICOTT,Esther Agnes,11 Jan 1916,,,C294 Kg
+CONN,Percy,9 Feb 1967,64,,A133 Hst
+CONN,Alice,7 Jun 1974,69,Wife of Percy,A133 Hst
+CONNOR,Emma,27 Jun 1939,62,,C399 Hstkg
+CONNOR,John James,21 Jun 1953,85,,C399 Hstkg
+CONNOR,Reginald J.E.,30 Dec 1972,,Born 17 Mar 1901,C399 plaq
+COPE,Maud Alla,4 Aug 1944,80,Wife of Edward James,C448 Plaq
+COPE,Edward James,30 Apr 1955,89,M.P.S. F.R.A.S. WM Chemist 1890 - 1945,"C448 plaq<br>C440 Bench"
+CORNISH,Margaret Wilmot,13 Dec 1915,,Born 6 May 1835 daughter of T J G Cornish Vicar Kenyzyn,B149 StX
+COTTRELL,Albert George,29 Oct 1950,81,,C408 Kg
+COTTRELL,Ellen,21 May 1970,92,,C408 Kg
+COTTRELL,Albert Joseph,1947,,Born 1901,C426 Kg plaq
+COTTRELL,Lucy Annie,1976,,Born 1904,C426 Kg plaq
+COX,Clara Annie,1940,,"Widow, Ernest McKenzie Cox",C400 Hstkg
+COZENS,Agnes Sarah,11 Feb 1961,,Bobbie’,C344 Hstkg
+COZENS,Alan James Murdoch,23 Jul 1970,,"Husband of above, Lt Col, of Tarff WM",C344 Hstkg
+CRAIG,Agnes Isabel,1960,,Born 1887,A97 Hst
+CRAIG,Jessie Florence,1971,,Born 1886,A97 Hst
+CRAIG,Alice Elizabeth,20 Mar 1939,88,Also M13 plaque,C278 Kg
+CRAIG,Lucy Grace,3 Jan 1943,88,Also M13 plaque,C278 kg
+CRAIG,Jane Mary,21 Feb 1924,75,Also M13 plaque,C303 Kg
+CRAIG,Edith,7 Mar 1933,76,Also M13 plaque,C349 Kg
+CRAIG,Margaret,2 Jan 1930,77,Also M13 plaque,C349 Kg
+CRANE,Samuel James,1 Jul 1925,25,,C330 Kg
+CRANE,Kate Maud,9 Dec 1938,66,,C330 Kg
+CROXALL,Edith A,1 May 1956,75,,C353 Kg
+CUE,John Sidney,18 Jun 1909,29,First son of Thomas & Emma,A113 Hstkg
+CUE,Harold,12 Ap 1912,30,2nd son died Colorado Springs,A113 Hstkg
+CUE,Douglas,1 Jul 1916,25,3rd son died Gommencourt,A113 Hstkg
+CURTIS,Matilda C. Alicia,14 Dec 1906,70,Widow of J R Lloyd Curtis,A47 StX
+CURTIS,William Lloyd,1 Aug 1870,12,Son of above,A47 StX
+DADGE,Keith Leslie,3 Oct 1973,29,,A70 Hst
+DAKIN,Andrew William Stephen,2012,,Bn 1954 Carved wood post,B192 WP
+DAKIN,Betty Georgina,17 Aug 2017,,Born 17 Feb 1939,B193 Hst
+DALLEY,Edith Rose,13 Jan 1980,74,,A54 Hst
+DAVIDSON,Mary Elizabeth,14 Mar 1941,,"Born 6 Oct 1868, of WM & Ballybrach Ireland",C420 Hstkg
+DAVIES,Flora Anne,9 May 1970,63,,A68 Hst
+DAVIES,Mary Ann,10 Oct 1930,73,,C358 Kg
+DAVIES,Ellen Mary,25 Dec 1969,80,,C358 Kg
+DAVIS,Frederick Arthur,10 Feb 1958,,,C346 WX plaq
+DAWE,George Owen,2 Sep 1994,58,,B169 Hst
+DAWE,Gillian Maureen,17 Ap 2002,60,Wife of above,B169 Hst
+DEANE,Caroline Hoskins,21 Oct 1893,,On Countess Wengers grave,A30 Gstr
+DENSON,Doris,20 Apr 1981,,,C433 Hst
+DOBBS,George,30 Dec 1896,71,,B229 Hst
+DOBBS,Elizabeth,8 Jan 1912,,"Wife of above, born 8 Feb 1826",B229 Hst
+DODD,William G,1979,,Born 1923,A107 Hst
+DOHERTY,Emma Elizabeth,Nov 1990,95,,C368 Kgplaq
+DOHERTY,Georgina Sydney,Oct 1941,72,,C368 Kgplaq
+DONEGANI,Charlotte,18 Mar 1934,,,C388 Hstkg
+DONEGANI,Clara,8 Nov 1947,,,C388 Hstkg
+DOORBAR,Susannah,21 Jan 1890,56,"Wife of Henry, Croft Farm",B137 StX
+DOORBAR,Henry,23 Jul 1903,69,Croft Farm WM,B139 StX
+DOWN,Lavinia,24 Dec 1876,60,Fallen headstone,A102 Hst
+DUDLEY,Lorna Mary,18 Sep 2005,,Born 28 January 1925,B170 Hst
+DUNPHY,Nancy,30 Jan 1980,,Born 9 August 1900,A56 Hst
+EICHBAUM,F A G,23 Oct 1909,69,"Priest, founder St Edwards",B150 StX
+ELLIOTT,Mary Beatrice,1930,,Died on Easter Day,C292 Kg
+EVANS,Mary Ann,2 Jul 1904,71,,B231 Hst
+EVANS,Henry,20 Mar 1913,54,Son of above,B231 Hst
+EVANS,James,17 Feb 1928,95,Husband/father of above,B231 Hst
+EVANS,Edith Ellen,13 Aug 1944,72,,C273 Kgr
+EVANS,Frederick Gilbert,1955,,Born 1873,C332 Hst
+EVANS,Elizabeth Kate,1954,,Born 1865,C332 Hst
+EVANS,Vera Margaret,1992,,Born 1902 daughter of above,C332 Hst
+EVANS,Eleanor Margaret,21 May 1930,,Abbey Lodge,C359 Kgr
+EVANS,Jane Elizabeth,5 May 1924,,Née Lane,C442 Hstkg
+EVANS,James W,Jan 1935,,Husband of above,C442 Hstkg
+EYLES,A P,25 Jul 1910,,,B141 Kgr
+EYLES,Mary Ann,9 May 1913,45,,B141 Kgr
+FARMER,William,13 Feb 1885,79,,A43 Gst
+FARMER,Hannah Maria,20 May 1894,85,,A43 Gst
+FARMER,Thomas,25 Sept 1885,56,Of Oak Cottage West Malvern.,A42 HstKgr
+FARMER,Margaret Cotton,30 Oct 1957,,Born 7 Feb 1873,C317 Gst
+FARTHING,Jayne,Dec 2017,,Born August 1960,B138 WX
+FELL,Muriel Ella Melville,18 Apr 1936,,"Wife of Dr Robert Fell, Liscrevan WM",C363 StXkg
+FELL,Robert,11 Jul 1955,,Doctor,C363 StXkg
+FINCH,Thomas William,9 Nov 1977,,Born 21 February 1893,A85 Hst
+FINCH,Florence May,30 Jan 1985,,Born 16 March 1913 wife of above,A85 Hst
+FINCH,Thomas Henry,4 Sept 1960,85,,A86 Hst
+FINCH,Emily Eliza,5 Mar 1961,83,Wife of Thomas William,A86 Hst
+FINCH,Emily,9 Mar 1963,64,Daughter of Thomas & Emily,A86 Hst
+FINDLAY,John,27 Sep 2005,,Born 6 Nov 1928,B194 Hst
+FINDLAY,Shelagh,28 Oct 2009,,Born 1 Jun 1926,B194 Hst
+FINLAY,Harry,12 Dec 1938,,M.D.,C365 Hstgr
+FINLAY,Lilian,17 May 1953,,Wife of above,C365 Hstgr
+FLANAGAN,Peter Joseph Michael,20 Jul 2012,65,,B199 WX
+FORD,Constance,,,No dates or details,A82 StX
+FORD,Beatrice Mary,,,No dates or details,A82 StX
+FORD,Susan Henrietta,2 Jan 1939,98,,C279 kg
+FOWLER,Jennie,1955,,Born 1874,C340 plaq
+FREEMAN,Anne,May 1881,,Wife of Chas Earle Freeman,"A12a Hst, M5, M25"
+FREEMAN,Mary,13 Aug 1930,,Born 22 May 1877 wife of Charles Henry Earle Freeman,A16 StXkg
+FREEMAN,Charles Henry Earle,20 Mar 1938,,Born 1 Feb 1885,A16 StXKg
+FREEMAN,Maude Alice Louise,18 Oct 1936,89,Widow of Rev C E Freeman,A27 Hst
+FREEMAN,Louisa Evelyn Mary,18 Aug 1949,60,Daughter of above,A27 Hst
+FREEMAN,Charles Earle,,,Vicar WM 1856 - 1903,M8 plaq
+FREEMAN,Ellen,13 Sept 1952,,,C398 Hstkg
+FREER,Harriet,15 Feb 1896,,Born 1 June 1812,M15
+FREER,Richard Lane,,,Stained glass window,M1
+FRENCH,Thomas Henry,21 Oct 1974,63,,A63 Hst
+FRENCH,Elsie,10 July 1989,,Wife of above,A63 Hst
+GARDINER,Ernest George,10 Jan 1974,72,,A71 Hst
+GARDINER,Dorothy Emily,22 Ap 1974,65,Wife of above,A71 Hst
+GEORGE,Frederick Thomas,16 Sept 1973,,Born 11 September 1883,A73 Hst
+GEORGE,Catherine Louise,1 May 1985,,Born 14 Feb 1893 wife of above,A73 Hst
+GEORGE,Peter,15 Sep 1992,41,,B147 Hst
+GEORGE,Winifred Mary,6 Jan 1999,,Mother of above born 14 Feb 1923,B147 Hst
+GEORGE,Richard Charles,11 May 2002,,Mick’ born 7 July 1916,B167 Hst
+GEORGE,William,1954,,Born 1878,C342 WX
+GEORGE,Frances,1976,,Born 1896,C342 WX
+GEORGE,Betty,6 Mar 2004,,Born 23 Feb 1925,C342 WX
+GERY,Harriet Sophia Ellen,1934,,Born 1839. Buried with sister Hester Eliza Buckle,A111 StXk
+GILBERT,Edwin Middleton,23 Jan 2002,,Born 16 Feb 1919,B178 Hst
+GILL,Harry,30 Apr 1932,,,C384 Kg
+GILL,Amy Rose,1 Feb 1952,,,C384 Kg
+GOODWIN,Ronald,14 Nov 2000,,"Partner of Anne, born 12 July 1924",B159 Hst
+GOODWIN,Ellen,4 Oct 1926,55,,C307 Gst
+GOODWIN,Charles,24 Nov 1951,85,,C307 Gst
+GRAY,Sarah,30 Nov 1911,98,Wife of William Oliver Gray,B214 Hstk
+GRAY,Sarah Jane,13 Oct 1930,73,,B214 Hstk
+GRAY-JONES,Mary Aitken,25 Dec 1889,70,Wife of Thomas,A10 Hst
+GRAY-JONES,Thomas,15 May 1905,86,,A11 Hst
+GREEN,Ethel,,,Flower holder,B154
+GREENING,Daniel,19 Jan 1915,72,,B220 Hst
+GREENING,Sarah,9 Jan 1918,72,Widow of Daniel,B220 Hst
+GREENING,John,1941,,Born 1931,C402 Hst
+GREENING,Nellie,1999,,Born 1907,C402 Hst
+GREENING,Jack,1999,,Born 1909,C402 Hst
+GREGORY,Katie,8 May 1978,2,( 2 and a half),A5 Hst
+GRIFFITH,Paul E,,,,M12 plaq
+GRIFFITHS,Alice,26 Dec 1935,,,C414 StXkg
+GUMBLEY,Howard Willis Wilton,24 May 1978,68,,A105 Hst
+GUMBLEY,Winnie Edna,24 Mar 1995,80,,A105 Hst
+GURNEY,Agnes Brita Lingen,May 1967,,Born August 1876,A131 Hst
+GWYNN,Frank,4 Mar 1919,,,C293 Kg
+GWYNNE,Alice,7 Oct 1975,,,A78 Hst
+GWYNNE,John,16 Sept 2005,,Husband of above,A78 Hst
+GWYNNE,Elizabeth M.,9 Jan 1962,77,,A91 Hst
+GWYNNE,Sydney E.,24 Mar 1965,80,,A91 Hst
+GWYNNE,Reginald Samuel Ralph,30 Aug 1969,52,,A129 Hst
+GWYNNE,Iris Gwendoline,9 Ap 2002,84,Wife of Reginald,A129 Hst
+GWYNNE,Samuel,31 Aug 1927,47,,C315 Hst
+GWYNNE,John,14 May 1930,,,C361 Kgr
+GWYNNE,Emma,29 Apr 1935,83,Wife of above,C361 Kgr
+HALL,William,12 May 1888,77,,A26 Hstkg
+HALL,Ann,24 Mar 1891,75,Wife of William,A26 Hstkg
+HALL,James,8 Jan 1981,72,,A53 Hst
+HALL,Pearl,24 Ap 1980,41,,A55 Hst
+HALL,Francis W,18 Feb 1956,77,,C341 Kg
+HALL,Alice Marion,5 Jan 1961,80,Wife of above,C341 Kg
+HALLETT,Marion,1938,,Born 1893,C295 StXkg
+HALLETT,George,1916,,Born 1847,C295 StXkg
+HALLETT,Edith Marie,16 Feb 1972,76,,C295 plaq
+HALLETT,Brian Maurice,18 Nov 1972,84,,C295 plaq
+HAMER,Edith Gertrude,11 Mar 1961,,Daughter of Henry & Anne Hamer of Bishopstone,A95 Hst
+HAMILTON,Francis Baillie,22 Nov 1919,,Born 30 Sept 1829,C356 StX
+HAMMOND,Doris Nancy,29 Nov 2011,,Nancy’ born 6 Oct 1924,B198 Hst
+HAMMOND,Mary Ann,27 Sep 1906,83,"Of Pillows Pitch, West Malvern",B230 Hst
+HAMMOND,George,23 Mar 1908,83,"Of Pillows Pitch, West Malvern",B230 Hst
+HAMMOND,Hannah,26 Nov 1922,64,,C351 Kg
+HAMMOND,Charles,2 Oct 1916,19,"Son of above, killed in France",C351 Kg
+HAMMOND,Thomas,24 Jul 1949,92,,C351 Kg
+HANBURY,Rev John (MA),4 Apr 1899,43,Curate West Malvern 18 years,A25 StX & M6
+HANBURY,Gertrude Jane Lane,Mar 1923,,"Widow of above, born 5 Jul 1865 buried Amersham",A25 StX
+HANBURY,John Humphrey Freer (MA),18 June 1934,,"Son of above, born 25 June 1886 WM, buried in Seville",A25 StX
+HAND,Eleanor J,5 Jan 1924,,,C241 Gst
+HANDS,Derek William,1999,,Born 1930,B207 Hst
+HANDY,George,15 Apr 1929,,,C247 Kg
+HANDY,Mary Ann,Nov 1962,,Wife of above,C247 Kg
+HANDY,Jean,,,,C252 WX
+HANDY,William James,9 Apr 1951,49,,C380 Hst
+HANDY,Lilian Decima,5 Feb 1958,57,,C380 Hst
+HARCOMBE,Samuel Escott,11 Jun 1911,52,,A96 Hst
+HARCOMBE,Caroline Helena,13 Nov 1955,88,Wife of Samuel Escott,A96 Hst
+HARDING,Victor R,6 Dec 1992,71,,B145 Hst
+HARDING,Evelyn K,4 Jul 2008,88,Wife of above,B145 Hst
+HARDING,Philip M,2 Nov 2017,65,Son of Victor and Evelyn,B145 Hst
+HARDING,William Henry,15 Jun 1947,,,C270 Hst
+HARDING,Ellen Mary,17 June 1997,109,,C270 Hst
+HARDING,Joan,22 Jan 1941,18,,C276 Hstkg
+HARDING,John,5 Jul 1920,57,,C331 Hst
+HARDWICK,Percival,5 Jan 1952,50,,C381 Hst
+HARDWICK,Edith,11 July 1980,78,,C381 Hst
+HARRIS,Phyllis Mary,1 Oct 1981,67,,A50 Hst
+HARRIS,Harold James,2 July 1984,78,Husband of above,A50 Hst
+HARRIS,John,18 Nov 1996,71,,B175 Hst
+HARRIS,Pamela Mary,10 Jan 2020,88,,B175 Hst
+HARRIS,Catherine M,11 Nov 1915,78,,C296 Hst
+HARRIS,Jessie,13 Apr 1902,65,Sister of above,C296 Hst
+HARRIS,Nigel D,13 Oct 1944,,Aged five and a half months,C306 Kg
+HARRIS,Thomas,20 Jul 1920,88,,C316 Hst
+HARRIS,Elizabeth,18 Mar 1926,91,Widow of above,C316 Hst
+HARRIS,Charles,28 Jan 1955,64,,C336 Kg
+HARRIS,Annie Elizabeth,17 Aug 1983,92,,C336 Kg
+HARRIS,Leslie C,1991,,Born 1916,C336 Kg
+HARRIS,Charles,11 Oct 1932,67,,C382 Kg
+HARRIS,Mary Ann,17 Jan 1949,,Wife of above,C382 Kg
+HARRIS,Ada,8 Jan 1947,42,,C425 Kg
+HARRISON,Isabel,1958,,Born 1894,M16
+HARRISON,Beatrice M,4 Sept 1957,60,,C348 Gst
+HARRISON,Edgar,27 Apr 1963,71,Husband of above,C348 Gst
+HARTLAND,Alfred Harford,8 Feb 1886,,Born 17 Sept 1817,A29 Gst
+HARTLAND,Sarah Hannah,31 Jan 1901,,"Wife of above, born 10 Nov 1828",A29 Gst
+HARTLAND,Alfred,October 18…,,"Born 1849, only son of Alfred Harford Hartland",A72 StX
+HATCHETT,Rex Tulloh,1973,,"Born 1888, on Tulloh plot",A8 Plaq
+HAYLING,William,31 Jan 1897,76,With kerbed enclosure,B144 Hstk
+HAYLING,George,31 Jan 1898,33,Son of above,B144 Hstk
+HAYLING,Diana,13 Ap 1900,77,,B144 Hstk
+HAYLING,Esther,11 Ap 1931,72,Daughter of above,B144 Hstk
+HAYLING,Alice,10 Jan 1949,86,Also daughter of above,B144 Hstk
+HAYWARD,David Oldham,9 Oct 2015,,Born 15 Nov 1934,B157 Hst
+HEALY,Annie May,9 Feb 1915,9,"Only child of W & M Healy<br>9 years and 9 months",B234 StXkg
+HENDERSON,Annie Buchanon,,,Framed dedication,M2
+HILL,Joanna,14 May 1886,78,Late of Redmarley d’Abitot,A39 Gst
+HILL,Richard,12 Sept 1967,61,,A30 Hst
+HILL,Ted,30 Dec 1991,84,,A30 Hst
+HILL,Elizabeth Jessie,9 May 1968,73,,A235 Hst
+HIND,Mary Louisa,31 July 1900,71,Wife of James Fisher Hind,A12 StX
+HIND,Jane Richardson,28 Mar 1912,,Born 27 March 1835,A12 StX
+HODGES,Winifred,,,No further details,B158 WX
+HODGES,Norman,,,,B158 WX
+HODGETTS,Clarence,30 Jun 1946,,,C272 Hst
+HODGETTS,Catherine,15 Aug 1965,,Wife of above,C272 Hst
+HODGKINS,Rev G J,,,Vicar,M22 Plaq
+HODGSON,Aileen Muriel,17 Dec 1997,,Wife of Rev C H Hodgson born 19 Oct 1905,B177 Hst
+HODGSON,Kathleen Rosemary Corry,7 May 1999,,Born 30 Sept 1906,B177 Hst
+HOLBROOK,Bertha,25 June 1973,89,,A60 Hst
+HOLBROOK,Alfred W,19 Oct 1974,88,JP Husband of Bertha,A60 Hst
+HOLDS,Thomas William,8 Jun 1935,70,,C284 Hstkg
+HOLDS,Ada,6 Jun 1946,81,Wife of above,C284 Hstkg
+HOLLAND,Bryan Thurston,20 Jan 1933,,Born 4 Sept 1875,C386 StXkg
+HOLLAND,Florence Evelyn,15 Jun 1942,,Born 25 Nov 1871,C386 StXkg
+HOLLINSHEAD,AnnIe Elizabeth,12 Oct 1950,57,Buried with Sarah Summers,A20 Hst
+HOLLOWAY,Clifford James,1950,,Born 1938,C410 StXKg
+HOPE,Susannah,19 Jan 1935,,Daughter of W Esplen,C413 Hstkg
+HOPE,Walter B,11 Sep 1940,,Husband of above,C413 Hstkg
+HOPTON,Frances,1 May 1888,75,Widow of James M P Hopton,A125 StX R enc
+HOUGHTON,June Rosemary,12 Aug 2007,75,Née Bennett died Fremantle,B196 plaq
+HOWL,Harriet,4 July 1895,,Widow of William H Howl,A14 StX
+HOWL,Hannah Maria,Jan 1940,,Daughter of Harriet,A14 StX
+HOWL,Jane,23 Nov 1932,89,,C289 Hstkg
+HUGHES,Thomas Jones,20 Nov 1933,58,,C387 Hstkg
+HUGHES,William John,17 Sept 1935,21,"Died in Muree, India",C387 Hstkg
+HURFORT,Gerry,2016,,Born 1947,B153 Hst
+HUTCHINSON,Elizabeth,Nov 1905,8..,Of Rock Villa,A28 StX
+HUXLEY,Major John Earle,,,Framed dedication,M2
+HUXLEY,Ada Maud,,,Framed dedication,M2
+JACQUET,Nathalie Marie-Helene,8 Jun 2004,,Born 2 October 1966,B161 Hst
+JENKINS,Charles John,28 Sep 1901,,Born 6 August 1830,B203 Kenc
+JENKINS,Emily Jane,16 Dec 1909,,,B203 Kenc
+JENKINS,Richard,23 Jun 1903,68,,B213 Hstk
+JENKINS,Emma,30 Apr 1916,82,,B213 Hstk
+JENNS,Clifford Sydney,3 Mar 1920,2,,B240<br>stone
+JESS,Zofia Natalia,16 Sep 2014,91,,B201 Hst
+JEYNES,Sidney Charles,28 Ap 2017,,Sid’ born 23 Apr 1934,B152 Hst
+JOHNSON,Francis,5 Jun 1905,47,"Pastor, Leamington Spa",B205 Hst
+JOHNSON,Beatrice Mary,18 Aug 1929,65,Interred Christchurch Newport,B205 Hst
+JOHNSON,E.A.,13 Jan 1930,84,,C254 Hstkg
+JOHNSON,Thomas Chapple,30 Nov 1939,88,Priest,C277 StXkg
+JOHNSON,Mabel Tyler,18 May 1948,89,Wife of above,C277 StXkg
+JOHNSON,Alice Jane,17 Jul 1927,52,,C314 Hstkg
+JONES,Frederick C,1883,,Born 9th February 1864,A40 Hst k
+JONES,Stella Maria,26 Nov 1972,83,,A65 Hst
+JONES,Bertie Frederick,29 Dec 1972,84,Husband of Stella Maria,A65 Hst
+JONES,Ada Alice,10 Oct 1933,55,,C288 Hstkg
+JONES,Elizabeth,30 Jul 1915,,Short iron marker,C441
+JOYNER,Edith Helen,1979,,Born 1900,A106 Hst
+JOYNER,Reuben,11 Oct 1905,,Born 27 Sept 1827,B232 Hstk
+JOYNER,Eleanor,19 Apr 1910,,"Wife of above, born 27 Aug 1830",B232 Hstk
+JOYNER,Ian Andrew,14 Jul 2013,,Born 8 Jan 1967,B232 Stone
+JOYNER,Daphne,4 Jul 1997,,Born 18 Dec 1935,B232 Stone
+JOYNER,Augustus Reuben,11 May 1936,67,,C393 Hstkg
+JOYNER,Edith Arden,14 Jan 1955,,,C393 Hstkg
+JOYNER,Ethel Gertrude,16 Jun 1943,,,C394 Hskg
+JOYNER,Bessie Mary,1959,,Born 1909,C394 Stone
+JOYNER,Reginald Charles,1989,,Born 1903 husband of above,C394 Stone
+JUNOR,Margaret H,30 Jun 1933,,,C412 Hstkg
+JUNOR,Donald M,22 Nov 1937,,,C412 Hstkg
+KING,Noel Ross,5 Oct 2001,,Born 12 Dec 1914,B156 Hst
+KNIGHT,George Harold,5 Feb 1906,14,,B151 StX
+KNIGHT,Sarah Emily,16 Nov 1943,,,C404 Hstkg
+KNIGHT,Hedley George,20 Sept 1951,,,C404 Hstkg
+KNOTT,W.I.V.,21 Sept 1947,29,Commonwealth War Grave,C376 Hst
+KNOTTENBELT,Jan,11 Dec 1952,,,C323 Kg
+KNOTTENBELT,Mary Hannah,14 Mar 1955,,Née Lloyd,C323 Kg
+LAFFORD,Mary (Marcia),30 Dec 1974,17,Daughter of Philip & Grace,A61 Hst
+LAFFORD,Philip Thomas,31 Aug 2012,83,,A61 Plaq
+LAFFORD,Grace Storrie,8 Nov 2017,87,Wife of Philip,A61 plaq
+LAITHWOOD,Gertrude Helen,30 Nov 1937,67,,C394 Hstkg
+LANGRISH,Kitty Oaks Appleton,1991,,Born 1906. Niece of John and Margaret Shilton,C271 Hst
+LAVILLE,Nigel Neville,2016,,Born 1934,B217 Hst
+LAW,Elizabeth,9 Sept 1962,,Daughter of Sarah Ballinger,C311 Hst
+LAYTON,Alice Jane,4 Apr 1924,50,,C305 Hst
+LEGGE,Charles Norton Llewellin Kidder,31 Mar 1951,,Born 15 Sept 1886. Lee Cottage WM,C434 StXkg
+LEIGH,Henrietta R,31 Mar 1894,,,B142 Hst
+LEWIS,Richard,8 Jan 1990,57,,B212 Hstk
+LEWIS,Delilah,16 Feb 1914,73,,B212 Hstk
+LEWIS,Dorothy,23 Feb 1955,,,A436 Bench
+LEWIS,Harry R,,,,M11 plaq
+LEWIS,Albert George,18 Nov 1928,62,,C246 Hstg
+LEWIS,Sarah Louisa,1947,,Born 1860 wife of above,C246 Hstg
+LEWIS,Frank James,1953,,Born 1883 son of above,C246 Hstg
+LLOYD,James,28 Jan 1875,,Born 31 Jul 1808,A121 Hst
+LLOYD,Milborough,2 Jan 1894,63,Wife of James,A121 Hst
+LLOYD,W.P.,15 Oct 1915,,,C297 Kg
+LLOYD,Lucy,11 Feb 1955,79,,C338 Kg
+LLOYD,Thomas,19 May 1955,80,Husband of above,C338 Kg
+LLOYD,Walter,1974,,Born 1907. On flower holder,C338 Kg
+LONGLEY,Charles A.L.,9 Sept 1934,57,,C389 Hstkg
+LYNES,Edith Rose,6 Sep 1956,72,,C350 Hstkg
+LYNES,Lenard,17 Jan 1969,,Husband of above,C350 Hstkg
+MACDONALD,Rev T Mosse,,,Vicar 1903 - 1910,M7 Plaq
+MAILE,Borga May,17 Mar 1972,,Born 6 May 1893,A59 Hst
+MAILE,Harold James,13 Oct 1998,,Born 13 Aug 1926,B182 Hst
+MAILE,Margaret Joan,8 Dec 2001,,Born 20 June 1931,B182 Hst
+MAJOR,Sheila Ann,22 Jun 1985,,Born 29 Sep 1935,A119 Hst
+MAJOR,Willett Beckett,23 May 2019,,Born 14 Feb 1931,A119 Hst
+MALLIN,William Peter,10 Oct 2010,,Bill’ born 28 Jan 1933,B164 Hst
+MARKER,Henry,20 Aug 1940,,,C401 Kg
+MARKER,Florence,2 Oct 1964,,Wife of above,C401 Kg
+MARLOW,Mary Louisa,9 Dec 1921,,Born 21 Sept 1863,C339 StXkg
+MARLOW,Eliza,13 July 1931,,Born 2 Feb 1873,C339 StXkg
+MARSHALL,Ben Cumming,3 Jan 2013,1 day,Also memorial bench on path nearby B439,B162 Hst
+MARTIN,John,28 Apr 1902,76,,B228 Gst
+MARTIN,Rhoda,20 Nov 1909,,Born 30 March 1820,B228 Gst
+MARTIN,Margaret,7 Feb 1902,78,Interred at Willaston,B228 Gst
+MARTIN,Hugo Hamilton,,,On altar rail,M10
+MARTIN,John Beecham,6 May 1918,66,Harcourt Cottage WM,C360 StXKg
+MATTICK,S.M. (Sue),9 Aug 1939,,,C416 Kg
+McCANN,George,14 Jan 1894,,,B210 StXk
+McCANN,Sarah,20 May 1922,,,C354 Kg
+MEEK,Stuart,1985,,Born 1930,A116 Hst
+MERRYDAY,Thomas George,16 May 1899,53,Of Grosvenor Cottage WM,A23 Hstkg
+MERRYDAY,Mary Ann,26 Jan 1900,,Wife of Thomas George,A23 Hstkg
+METCALFE,Caroline Mabel,22 Jul 1916,39,"Wife of H.F. Metcalfe, Hillside",C300 StXkg
+MITCHELL,Thomas,9 Oct 1953,83,,C324 Kg
+MITCHELL,Mira,9 Jun 1956,85,Wife of above,C324 Kg
+MORGAN,Ann Jennifer,24 Mar 2014,77,,B200 WX
+MORGAN,Fanny,17 Jan 1925,88,Widow of Rev Henry Morgan,C326 Hstkg
+MORRIS,Ann,11 Dec 1974,85,,A62 Hst
+MORRIS,Alfred,14 Nov 1975,81,Born 31 August 1894,A79 Hst
+MORRIS,Elizabeth,5 Mar 1999,98,Born 29 Mar 1900 wife of Alfred,A79 Hst
+MORRIS,Peter George,1 May 2008,83,Born 23 April 1925,B168 Hst
+MORRIS,Derek Herbert,10 Apr 1932,,Born 15 Aug 1930,C310 Hstkg
+MORRIS,John,7 Apr 1931,81,,C383 Kg
+MOSELEY,Gertrude A,8 Oct 1921,38,,C335 Kg
+MOSELEY,Hilda,22 Oct 1929,23,Daughter of above,C335 Kg
+MUSCOTT,Phyllis,August 1981,,Born June 1952,A437 Bench
+NICHOLAS,Muriel Mary,March 1976,90,,A84 StX
+NICHOLAS,Clarence William,1994,101,Husband of Muriel Mary,A84 StX
+NICOLET,Dora Jeanne Sophie,21 Aug 1952,,Born 6 Dec 1880,C263 kg
+OVENS,Jane,21 Feb 1885,43,Wife of James Ovens,A38 StXkg
+PAGE,Kate L,21 Oct 1925,52,,C334 Hstkg
+PAGE,Edward,9 Sept 1926,56,Husband of above,C334 Hstkg
+PARKER,Reginald,22 May 1911,,Born 21 Jan 1846,A103b Hst
+PARKER,Reginald Irving,18 Mar 1922,,Bn 10 Nov 1883 son of above,A103b Hst
+PARKER,Margaret Irving,3 Ap 1936,81,,A103b Hst
+PARKER,Phyllis Margaret,15 Sept 1879,,"In Old Smethwick Churchyard, born 13 Sept",A103c Hst
+PARKER,Mildred Irene,1998,,Born 1909,B181 WX
+PARKER,Carl,18 Mar 1982,,Born 17 Mar 1982,C318 plaq
+PARRY,Thomas,6 Mar 1870,,Born 27 November 1794 Bishop of Barbados,A80 StX Gst & M18
+PARSONS,Charles C,9 Dec 1954,,Born 30 Jan 1881,C333 Kg
+PARSONS,Elizabeth Sarah,26 May 1964,,,C333 Kg
+PARTRIDGE,Leonard,29 Apr 1929,,,C248 Hst
+PARTRIDGE,Ellen,27 Nov 1959,,Wife of above,C248 Hst
+PASCOE,Thomas Charles,9 Jul 1924,77,Captain R.N.,C444 Kg
+PASCOE,Alice Margaret Williams,27 May 1934,,Born 5 March 1852 wife of above,C444 Kg
+PATTERSON,James George,5 Nov 2010,,Born 29 Dec 1941,B195 Hst
+PEARCE,David Ian,1994,,Born 1925,B209 Hst
+PEARSON,Sarah,12 Oct 1928,,Late of Crewe,C245 Hstkg
+PERRY,Elizabeth,16 Mar 1974,73,,A67 Hst
+PERRY,Lewis,21 Sept 1972,74,Born 10 Feb 1898,A67 plaq
+PHELPS,Lucy Olive,9 Jan 1969,,Wife of D H D Phelps,A103a Hst
+PHELPS,John Henry Dixon,29 Sept 1946,47,,A103b Hst
+PHELPS,Anthony Irving,12 Oct 1942,32,"Flying Officer, killed in Canada",A103c Hst
+PHILPOTTS,Hannah,6 Jul 1993,86,,B163 Hst
+PHILPOTTS,Reginald William,1 Feb 1998,90,,B163 Hst
+PINDER,John Hothersall,,,,M9 plaq
+PINDER,Anne Braithwaite,13 Jan 1892,99,Widow of Above,A7 Gstr
+PITT,Henry,24 Oct 1899,,Born 2 Jan 1809,A21 Hst
+PITT,Ronald Philip,2 Apr 1992,63,,A36 Hst
+PITT,William,26 Sept 1859,39,,A101 Hst
+PITT,Mary,14 Ap 1887,69,Wife of William,A101 Hst
+PITT,Ivy,,,Memorial plaque,B166
+PITT,Abia Gardiner,12 Jun 1908,53,,B202 StX
+PITT,William John,9 Oct 1929,,,C251 Hst
+PITT,Amy Lilian,19 Apr 1964,,Wife of above,C251 Hst
+PITT,Job,14 Nov 1928,78,,C343 Kg
+PITT,Catherine,27 Apr 1936,83,Wife of above,C343 Kg
+PITT,Lily Jane,21 Feb 1985,93,,C367 Hst
+PITT,Lydia Helen,11 Feb 1941,90,Mother of above,C367 Hst
+PITT,William,8 Mar 1945,88,Father of above,C367 Hst
+PITT,Harriet,15 Sept 1932,71,,C385 Hst
+PITT,Benjamin,6 Jan 1944,76,Husband of above,C385 Hst
+PITT,Annie Jane,4 Oct 1939,54,,C418 Kg
+PITT,Gertrude Elizabeth,13 Dec 1956,74,Sister of above,C418 Kg
+PLATT,Charles Henry,1930,,Priest born 1866,C253 StX
+PLATT,Beatrice Ann,1960,,Wife of above born 1867,C253 StX
+PONTING,Henry,22 Aug 1891,65,,A126 Hst
+PONTING,Emma,29 Oct 1889,38,Daughter of Henry,A126 Hst
+POOLE,Campbell Evered,1973,,Born 1906,A52 Hst
+POOLE,Ann,1983,,Born 1904 wife of above,A52 Hst
+POOLE,Ivor Raymond,1985,,Bn 1932 husband of Margaret,A117 Hst
+POWELL,Gladys Myra,24 Dec 1984,66,,A51 Hst
+POWELL,Harry William,8 June 1988,73,Husband of above,A51 Hst
+PREECE,James,1938,50,,C280 Hst
+PREECE,Mercy,1986,97,Wife of above,C280 Hst
+PREECE,James,30 Aug 1916,85,,C298 Hstkg
+PREECE,Mary,25 Feb 1921,85,Wife of above,C298 Hstkg
+PRICE,Jane,7 Aug 1897,76,,A9 Hst
+PRICE,Philip,6 June 1906,75,Husband of above,A9 Hst
+PRICE,Isaac,3 May 1902,73,,A236 Hst
+PRICE,Elizabeth,13 Jun 1911,77,,A236 Hst
+PRICE,Arthur R,1 Sept 1897,23,Son of Isaac and Elizabeth,A236 Hst
+PRICE,Lawson William,13 Jun 92,,Born 4 June 1915,B155 Hst
+PRICE,Margaret Rose,7 Ap 1995,,Sister of above born 26 Apr 1932,B155 Hst
+PRICE,Harriet,13 Jan 1894,72,,B227 Hst
+PRICE,Emma,26 Jun 1906,31,"Widow of Philip Price, the Gables West Malvern",B233 Hst
+PRICE,Florence Mary,1 Mar 1929,62,Only child of William & Mary,C243 Hstkg
+PRICE,Mary Ann,23 Jan 1928,,Born 3 November 1856,C259 StXkg
+PRITCHARD,Graham Francis,25 Aug 2001,65,,B188 Hst
+PRITCHARD,Stephen,6 Jun 2005,30,,B222 WX
+PRITCHARD,Thomas Roland,8 Jun 1954,49,,C329 Gstkg
+PRITCHARD,Edith Amy Ellen,27 Jan 2003,95,,C329 Gstkg
+PROSSER,Alice M,26 Feb 1951,82,,C432 Hstkg
+PROSSER,John J,10 Apr 1962,89,Husband of above,C432 Hstkg
+QUANT,Emily Louisa,18 Sept 1931,,,C291 Kg
+RALPH,Effie Maeve,1 Dec 2020,,,B435 WX
+REES,Evan,29 Jun 1963,,Born 12 May 1908,A99 StX
+REES,Phyllis,11 Feb 1988,,Born 8 Jan 1904 wife of Evan,A99 StX
+REGAN,John Richard,5 Dec 2003,92,,B171 Hst
+RELLIE,William,18 Aug 1943,,Born 29 Jan 1895 V.D. Lt Comdr R.N.V.R.,"C371 Plaq,<br>enc, anchor"
+RICHARDSON,Jane,19 Jun 1987,19,,A123 Hst
+RICHARDSON,Peggy,9 Nov 2002,,Born 28 Mar 1928,C342 WX
+RICHARDSON,Elizabeth Anne,26 Jul 1939,85,,C417 Kg
+ROBERTS,Walter C,1963,,Born 1894,A90 Hst
+ROBINSON,John,1972,,"Prebendary, born 1901",A69 flat st
+ROBINSON,Esther Hilda,1982,,Born 1914 wife of above,A69 flat st
+ROBSON,Dorothy Anne,24 Mar 1965,,Wife of A F Robson,A103a Hst
+ROBSON,Archibald Francis,27 Feb 1947,75,Vicar of W Malvern 1910-21,A103b Hst
+RODWAY,Loxley J,1961,,Born 1893,B239 plaq
+RODWAY,Ethel M,1961,,Born 1896,B239 plaq
+RODWAY,Reginald,1926,,Born 1924,B239 plaq
+RODWAY,Arthur Harry,27 Jan 1945,,Born 18 Dec 1891,C312 Hst
+RODWAY,Elsie Lucy,20 Nov 1965,,Born 29 Mar 1897 his wife,C312 Hst
+RODWAY,Charles Joseph,8 May 1927,,Born 6 Nov 1901 his brother,C312 Hst
+ROFF,William George,1979,,Born 1907,A108 Hst
+ROFF,Winifred May,2002,,Born 1912 wife of William,A108 plaq
+ROGERS,Ivor Maurice,29 Sept 1968,54,,B234 Hst
+ROGERS,Elizabeth May,1 Feb 1997,84,Wife of Ivor,B234 Hst
+ROGET,Peter Mark,12 Sept 1869,90,M.D.F.R.S.,A75 Gst
+ROGET,Catherine Mary,20 Feb 1905,79,Daughter of above,A75 Gst
+ROLLINS,Sallie,1995,,Born 1942,C313 Gst
+ROY,Charlotte Evelyn,31 Mar 1989,,,C415 Hstkg
+RUCK,William R,12 Jan 1964,70,,A87 Hst
+RUCK,Winifred Mary,10 Mar 1900,5,,A224 Hst
+RUCK,Percy James,20 Mar 1900,8,,A224 Hst
+RUSHTON,Arthur George Melville,1935,,Born 1874. Priest,C390 Gst
+RUSHTON,Mabel Tryphena,16 Apr 1958,,Wife of above,C390 Gst
+RUTHERFORD,Robert Kemp,7 Jun 1917,44,M.R.C.V.S.,C262 StXkg
+RUTHERFORD,Annie,27 Nov 1938,,,C364 Kg
+RYLAND,Fanny,25 May 1891,,"Of Birmingham, bn 4 Jul 1847",B190 StXr
+SALMON,Rose Helen,14 Oct 1930,,,C409 StX
+SAUNDERS,Marie,18 Dec 1988,61,,A34 Hst
+SAUNDERS,Reginald George,4 Apr 1994,,Husband of Marie,A34 Hst
+SAUNDERS,Norman,25 Feb 1975,52,,A77 Hst
+SAUNDERS,Lily,21 Mar 2016,92,Wife of above,A77 Hst
+SAUNDERS,Arthur Roland,10 Dec 1963,,Born 13 Nov 1905,A89 Hst
+SAUNDERS,Elsie Doris,17 Mar 1977,,Born 27 Sept 1907 wife of above,A89 Hst
+SAUNDERS,George,30 Ap 1958,,,A98 Hst
+SAUNDERS,Louisa,18 Dec 1968,,Wife of above,A98 Hst
+SAVAGE,Connie,1992,,Born 1902,C250 stone
+SAVAGE,Peter,,,"Son of above, died 20 months",C250 stone
+SCHUBERT,Adolphine,,,,C255 Hst
+SCOTT,Janet Lyn,18 Nov 1996,40,,B187 Hst
+SHEARER,William James,24 Jun 2020,76,,B135 WX
+SIDES,Desmond,24 Dec 1986,73,,A122 Hst
+SIDES,Elizabeth,26 Jul 2010,89,Wife of Desmond,A122 Hst
+SHILTON,John,1946,,Born 1863. Also M17,C271 Hst
+SHILTON,Margaret,1956,,Born 1866. Also M17,C271 Hst
+SHORT,J.L. (Brigadier) C.B.E.,17 Mar 1958,,"Born 25 Apr 1887, Kings Rgt, Liscrevan Brockhill Rd WM",C345 Hstkg
+SINCLAIR,Barbara,1996,84,"Wife of Leonard, née Payne",B185 Hst
+SMART,Francis John,1996,,Born 1923,B183 Hst
+SMITH,Gordon Robert,1 Jul 2010,84,,B165 Hst
+SMITH,Sylvia Elizabeth,26 Feb 2013,85,Wife of above,B165 Hst
+SMITH,William,2 Mar 1909,81,Kerbed grave,B191 Hst
+SMITH,Hannah,25 Ap 1916,80,,B191 Hst
+SMITH,Jane Elizabeth Clark,16 Feb 1908,,,B221 StXkg
+SMITH,Emily Edith,2 Mar 1929,13,Child of W & E Smith WM,C242 Kg
+SMITH,Ada,Apr 1951,,,C265 Hstg
+SMITH,George,May 1952,,,C265 Hstg
+SMITH,Hester Helen,1974,,Born 1894 flower holder,C321
+SMITH,Samuel,12 Nov 1957,77,,C347 Gstkg
+SMITH,Rosa Alice,2 Jun 1974,94,Wife of above,C347 Gstkg
+SMITH,Cyril G.,12 Aug 1945,23,On active service,C366 Hstkg
+SMITH,W.J.,20 Dec 1940,56,,C366 Hstkg
+SMITH,Mary Ann,26 Nov 1953,82,,C403 Kg
+SMITH,Joseph Henry,12 Dec 1943,67,,C403 Kg
+SOMERS,Patrick Forrest,16 Jun 1950,37,,C429 Plaq
+STALEY,Thomas Iliffe,15 Jan 1921,,,C325 StXkg
+STAPLES,Annie,13 Nov 1922,80,,C352 Kg
+STAPLES,Alice,28 Dec 1937,,,C395 Kg
+STONE,Hilda Frances,2001,,Born 1918,B206 Hst
+STONE,Charles William,2013,,Born 1917,B206 Hst
+SUMMERS,Sarah,15 Nov 1899,,Born 28 Feb 1825,A20 Hst
+SUMMERS,Eliza Miles,18 Jan 1894,39,,B226 Hst
+SUMMERS,Charles,7 Feb 1934,72,,C287 Hstkg
+SUMMERS,Ann Maria,16 Dec 1960,95,Wife of above,C287 Hstkg
+SUMMERS,Alice Maud,25 Jun 1932,41,,C290 Hstkg
+SUMMERS,Charles,1975,,Born 1891,C290 Hstkg
+SWALLOW,Arthur Wilson,26 Nov 1936,,,C392 Kg
+SWALLOW,Ada Susan,14 Mar 1938,,,C392 Kg
+TALBOT,Nathaniel Henry,5 May 1950,,Born 31 July 1885,C267 Hstkg
+TALBOT,Norah Olivia,9 Jul 1969,,Born 4 Feb 1888 wife of above,C267 Hstkg
+TANNER,Emma Mabel,28 Mar 1954,84,,C328 StXkg
+TASKER,Lilian,1979,,Born 1898. Stone unfixed,A110 stone
+TASKER,Edwin,1983,,Born 1892. Stone unfixed.,A110 stone
+TATHAM,Marian E,1868,,Born 1858,A6 Hst
+TAYLOR,Eileen Hilda Dorothy,16 Jun 1986,,Born 21 March 1895,A109 Hst
+TAYLOR,Francis,27 Oct 1948,,Born 20 Oct 1856,C268 kg
+THIRLWELL,Charles Henry,24 Aug 1911,68,Malvern Stone cairn & grave,A114
+THOMAS,Northcote Whitridge,21 Mar 1936,,Born 7 May 1868,C283 Hst kg
+THOMPSON,Caroline,10 Mar 1899,76,,A15 StX kg
+THOMPSON,Maurice,1988,,Born 1917,A32 Hst
+THOMPSON,Doreen Monica,2010,,"Wife of Maurice, born 1929",A32 Hst
+THOMPSON,Clementine M,1985,,Born 1908,A115 Hst
+THOMPSON,Eric Alfred,28 Nov 1986,77,Husband of Clementine,A115 Hst
+THOMPSON,Nigel Anthony Gregor,23 Jan 2002,,Born 21 March 1957,B184 Hst
+THORPE,Roland,1925,,Born 1853,C302 Kg
+THORPE,Elizabeth,1917,,Born 1858,C302 Kg
+THORPE,Henry Roland,1952,,Born 1878,C302 Kg
+TODD,Howard,20 Jun 1960,,Born 26 Nov 1877,A88 Hst
+TRANTER,Nathaniel,12 Jan 1908,82,In kerbed enclosure,B143 Hst
+TRANTER,Jane,9 May 1928,83,2nd wife of Nathaniel,B143 Hst
+TRANTER,Harriet,12 Dec 1894,73,Wife of Nathaniel,B143 Hst
+TRIGG,Roland Edward,6 Mar 1976,75,,A81 Hst
+TRIGG,Amy Gertrude,26 Ap 1988,83,Wife of Roland,A81 Hst
+TRIGG,Laura Louisa,10 Dec 1942,75,,C274 Hst kg
+TRIGG,Thomas William,12 Sept 1961,92,Husband of above,C274 Hst kg
+TRUELOVE,Henry,13 Dec 1947,84,,C269 kg
+TRUELOVE,Martha,21 Sept 1963,94,,C269 kg
+TUDGE,Jean Elizabeth Rose,20 May 2000,62,,B189 Hst
+TUDGE,Colin,7 Feb 2011,73,Husband of above,B189 Hst
+TULLOH,Mary Louisa,31 Dec 1869,79,Of Tannachie West Malvern,A8 StX enc
+TULLOH,Alexander Thomas,25 Apr 1885,86,Husband of above,A8 StX enc
+TURNER,Ellis,1995,,Born 1927,B180 Hst
+TURNER,Audrey,2015,,Born 1932,B180 Hst
+TURNHAM,John Coates,29 Nov 1993,,Born 27 June 1927,B172 Hst
+TURNHAM,Evelyn Erica,7 Mar 1999,,Born 31 October 1925,B172 Hst
+VIDEAN,Eleanor Mabel,1948,,Born 1878,C427 StX
+WALLER,C.G. (Jim),10 Aug 1963,52,,A93 Hst
+WALTERS,Barbara Gillian,11 Dec 1995,,Gill’ born 22 Sept 1939,B208 Hst
+WALTERS,John Lionel,2 Apr 2008,,Keith’ born 11 April 1939,B208 Hst
+WARD,Thomas Clare,20 Aug 1954,,"Priest, St Edwards, born 2 Sept 1869",B148 StX
+WARNEFORD,Elizabeth,15 July 1904,92,,A237 StX
+WATKINS,Stephen W,3 Apr 1942,,,C275 Hstkg
+WATKINS,Mary A,24 Apr 1952,,Wife of above,C275 Hstkg
+WATSON,Alfred,8 Mar 1919,,"Master of WM Boys School for 38 years, born 1846",A238 StX
+WENGERS,Fanny Countess,21 Sept 1877,,+ Caroline Hoskins Deane,A30 Gst enc
+WEST,James,6 Nov 1858,82,,A2 Gst
+WESTON,Maureen Rosemary,28 Oct 2011,77,,B197 WX
+WHETSTONE,Fanny Helen,30 Aug 1916,,,C299 StXkg
+WHETSTONE,Annie,17 Mar 1944,,Sister of above,C299 StXkg
+WHITE,William Walter,1932,,Born 1896,C410 StXkg
+WILCOX,Daniel David,12 Jan 1990,,Died at five hours old,A4 Hst
+WILCOX,Frank,,,On flower holder,C405
+WILCOX,Florence,,,On flower holder,C405
+WILEY,Ada Winifred,1977,,Born 1878,A76 Hst
+WILKINS,Dorothy Ann,8 Ap 2003,,Born 5 May 1943,B174 Hst
+WILLDER,Eliza,14 May 1893,74,Widow of S H Willder,B225 StXk
+WILLIAMS,Mary Jane,8 Aug 1935,78,Fallen headstone,C362 Hst
+WILLIAMS,James Edward,23 Feb 1917,,"Son of above, killed in action",C362 Hst
+WILSON,Ellen,30 Jan 1925,81,Widow of Rev John Wilson,C327 Hst
+WINTER,George Mitchell,28 May 1930,,"O.B.E., J.P., M.R.C.S.",C357 StXkg
+WINTER,Mildred Marion,25 Sept 1931,,Wife of above,C357 StXkg
+WOOD,Elizabeth Jane,25 Apr 1921,63,,C406 Kg
+WOODWARD,Mary,7 Sept 1938,,,C398 HstKg
+WOOKEY,Agnis,19 Jul 1961,77,Grave with J & M Preece,C298 Hstkg
+WOOLDRIDGE,Evelyn Mary,3 Dec 1934,,,C285 StXkg
+WRAY,Spencer James Morgan,1983,,Born 1979,A3 Hst
+WYLEY,Annie Margaret,May 1949,,Born Sept 1867,C428 Plaq
+WYLEY,William Kiteley,Sept 1952,,Born May 1868 Canon Ripon,C428 Plaq
+WYLEY,Mary Margaret,July 1973,,Born Jan 1904 daughter of above,C428 Plaq
