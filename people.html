@@ -1,5 +1,5 @@
 ---
-title: Graves
+title: People
 layout: default
 custom-javascript:
     - "/assets/js/list.js"
@@ -11,11 +11,11 @@ custom-javascript:
 	<button class="sort" data-sort="name">Name</button>
 	<hr />
 	<ul class="list">
-		{% for grave in site.data.graves %}
+		{% for person in site.data.people %}
 			<li>
 				<span class="name">
-					<b class="surname">{{ grave.surname }}</b>, <span class="forenames">{{ grave.forenames }}</span>
-				</span> died {{ grave.date_of_death }} {% if grave.age %}at the age of {{ grave.age }}{% endif %}
+					<b class="surname">{{ person.surname }}</b>, <span class="forenames">{{ person.forenames }}</span>
+				</span> died {{ person.date_of_death }} {% if person.age %}at the age of {{ grave.age }}{% endif %}
 			</li>
 		{% endfor %}
 	</ul>
