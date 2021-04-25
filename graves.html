@@ -13,7 +13,9 @@ custom-javascript:
 	<ul class="list">
 		{% for grave in site.data.graves %}
 			<li>
-				<span class="name"><b class="surname">{{ grave.surname }}</b>, <span class="forenames">{{ grave.forenames }}</span></span> died {{ grave.date_of_death }} {% if grave.age %}at the age of {{ grave.age }}{% endif %}
+				<span class="name">
+					<b class="surname">{{ grave.surname }}</b>, <span class="forenames">{{ grave.forenames }}</span>
+				</span> died {{ grave.date_of_death }} {% if grave.age %}at the age of {{ grave.age }}{% endif %}
 			</li>
 		{% endfor %}
 	</ul>
