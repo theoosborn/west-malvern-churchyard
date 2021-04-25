@@ -4,3 +4,6 @@ url: https://www.westmalvernmemorials.org.uk
 sass:
   style: compact
   sass_dir: _sass
+
+plugins:
+  - jekyll-datapage-generator
