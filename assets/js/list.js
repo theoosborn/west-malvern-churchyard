@@ -1,6 +1,6 @@
 var options = {
-    valueNames: ['name'],
-    page: 10,
+    valueNames: ['surname', 'forenames',],
+    page: 20,
     pagination: true
 };
 

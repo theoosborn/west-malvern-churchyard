@@ -8,11 +8,11 @@ custom-javascript:
 <div id="graveList">
 	<input type="text" class="search" placeholder="Search here" />
 	Sort by:
-	<span class="sort" data-sort="name">Name</span>
+	<button class="sort" data-sort="surname">Name</button>
 	<ul class="list">
 		{% for grave in site.data.graves %}
 			<li>
-				<b class="name">{{ grave.surname }}</b>, {{ grave.forenames }} died {{ grave.date_of_death }} at the age of {{ grave.age }}
+				<b class="surname">{{ grave.surname }}</b>, <span class="forenames">{{ grave.forenames }}</span> died {{ grave.date_of_death }} {% if grave.age %}at the age of {{ grave.age }}{% endif %}
 			</li>
 		{% endfor %}
 	</ul>
