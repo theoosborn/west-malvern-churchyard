@@ -4,6 +4,14 @@ layout: default
 <h1>{{ page.id }}</h1>
 <p>Inscription:</p>
 <blockquote>{{ page.text }}</blockquote>
+{% if page.notes %}
+    <p>Notes:</p>
+    <p>
+        <i>
+            {{ page.notes }}
+        </i>
+    </p>
+{% endif %}
 {% assign people = site.data.people | where:"grave_id", page.id %}
 {% if people.size > 0 %}
     <h2>People</h2>
