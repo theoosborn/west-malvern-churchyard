@@ -16,7 +16,10 @@ custom-javascript:
 				<a href="graves/{{ person.grave_id }}.html">{{ person.grave_id }}</a> -
 				<span class="name">
 					<b class="surname">{{ person.surname }}</b>, <span class="forenames">{{ person.forenames }}</span>
-				</span> died {{ person.date_of_death }} {% if person.age %}at the age of {{ grave.age }}{% endif %}
+				</span>
+				{% if person.date_of_death %}
+					died {{ person.date_of_death }} {% if person.age %}at the age of {{ person.age }}{% endif %}
+				{% endif %}
 			</li>
 		{% endfor %}
 	</ul>
