@@ -7,3 +7,10 @@ sass:
 
 plugins:
   - jekyll-datapage-generator
+
+page_gen-dirs: false
+
+page_gen:
+  - data: graves
+    name: id
+    template: grave

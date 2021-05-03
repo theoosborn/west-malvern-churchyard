@@ -1,0 +1,15 @@
+---
+layout: default
+---
+<h1>{{ page.id }}</h1>
+<p>Inscription:</p>
+<blockquote>{{ page.text }}</blockquote>
+{% assign people = site.data.people | where:"grave_id", page.id %}
+{% if people.size > 0 %}
+    <h2>People</h2>
+    <ul>
+        {% for person in people %}
+            <li>{{ person.surname }}, {{ person.forenames }}</li>
+        {% endfor %}
+    </ul>
+{% endif %}
