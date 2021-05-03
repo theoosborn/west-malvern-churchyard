@@ -1,4 +1,9 @@
-id,type,text
-A1,Headstone,‘To the memory of….Haywood’ Otherwise illegible
-A2,Mock tomb,‘Here rests James West sometime of the City of Oxford who departed at Malvern November 6th 1858 aged 82’
-A3,Headstone,‘Spencer James Morgan Wray 1979 - 1983 Mark 10 14-16’
+id,type,text,notes
+A1,Headstone,‘To the memory of….Haywood’ Otherwise illegible,
+A2,Mock tomb,‘Here rests James West sometime of the City of Oxford who departed at Malvern November 6th 1858 aged 82’,
+A3,Headstone,‘Spencer James Morgan Wray 1979 - 1983 Mark 10 14-16’,
+A4,Headstone,‘In loving memory of Daniel David Wilcox died 12 Jan 1990 Aged 5 hours’,
+A5,Headstone,‘In loving memory of Katie Gregory Died 8th May 1978  Aged 2 1/2 years’,
+A6,Stone cross,‘Marian E Tatham 1858  - 1868’,Also memorial lancet window in Church in north east of chancel
+A7,Raised gravestone and railed enclosure,"North Face ‘conjux amico venerando amici monumentum  posuerunt’;<br>West Face ‘Anne Braithwaite Pinder his wife born July 20th 1793 died January 13th 1892’;<br>South Face ‘Qui: ad justitiam erudivit: multos: obdormivit: in christo: evigilaturus’;<br>East Face ‘ Natus Ap 27 1791 obit Ap 1868’.","Translation: The spouse. His friends erected this monument for their venerable friend, who educated many towards justice. He sleeps, destined to wake in Christ. Born April 27 1791, died April 1868. Memorial to her husband John Hothersall Pinder inside Church, M9"
+A8,Cross and enclosure,"‘In loving memory of Mary Louisa Tulloh the beloved wife of Lt General Tulloh who died at Tannachie on the 31st December 1869 aged 79 years also of Alexander Thomas Tulloh Lieutenant General Royal Artillery beloved husband of the above who died April 25th 1885 aged 86 years’.","On separate stone within grave area, on plaque by short cross with angel<br>‘My dearest husband Rex Tulloh Hatchett 1888 - 1973’"
