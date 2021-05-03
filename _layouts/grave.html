@@ -12,7 +12,7 @@ layout: default
         </i>
     </p>
 {% endif %}
-{% assign people = site.data.people | where:"grave_id", page.id %}
+{% assign people = site.data.people | where_exp:"grave","grave.grave_id == page.id" %}
 {% if people.size > 0 %}
     <h2>People</h2>
     <ul>
