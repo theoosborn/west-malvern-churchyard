@@ -18,15 +18,13 @@ custom-javascript:
 		<tbody class="list">
 			{% for person in site.data.people %}
 				<tr>
-					<td><a href="graves/{{ person.grave_id }}.html">{{ person.grave_id }}</a></td>
+					<td><a class="graveID" href="graves/{{ person.grave_id }}.html">{{ person.grave_id }}</a></td>
 					<td>
-						<span class="name">
-							<b class="surname">{{ person.surname }}</b>, <span class="forenames">{{ person.forenames }}</span>
-						</span>
+						<b class="surname">{{ person.surname }}</b>, <span class="forenames">{{ person.forenames }}</span>
 					</td>
 					<td>
 						{% if person.date_of_death %}
-							{{ person.date_of_death }}{% if person.age %} at the age of {{ person.age }}{% endif %}
+							<span class="date">{{ person.date_of_death }}</span>{% if person.age %} at the age of <span class="age">{{ person.age }}</span>{% endif %}
 						{% endif %}
 					</td>
 				</tr>

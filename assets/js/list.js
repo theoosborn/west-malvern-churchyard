@@ -1,5 +1,5 @@
 var options = {
-    valueNames: ['surname', 'forenames', 'name'],
+    valueNames: ['surname', 'forenames', 'age', 'date', 'graveID'],
 };
 
 var graveList = new List('graveList', options)
