@@ -7,17 +7,30 @@ custom-javascript:
 
 <div id="graveList">
 	<input type="search" class="search" placeholder="Search here" />
-	<ul class="list">
-		{% for person in site.data.people %}
-			<li>
-				<a href="graves/{{ person.grave_id }}.html">{{ person.grave_id }}</a> -
-				<span class="name">
-					<b class="surname">{{ person.surname }}</b>, <span class="forenames">{{ person.forenames }}</span>
-				</span>
-				{% if person.date_of_death %}
-					died {{ person.date_of_death }}{% if person.age %} at the age of {{ person.age }}{% endif %}
-				{% endif %}
-			</li>
-		{% endfor %}
-	</ul>
+	<table>
+		<thead>
+			<tr>
+				<th style="width: 15%">Grave ID</th>
+				<th>Name</th>
+				<th>Date of Death</th>
+			</tr>
+		</thead>
+		<tbody class="list">
+			{% for person in site.data.people %}
+				<tr>
+					<td><a href="graves/{{ person.grave_id }}.html">{{ person.grave_id }}</a></td>
+					<td>
+						<span class="name">
+							<b class="surname">{{ person.surname }}</b>, <span class="forenames">{{ person.forenames }}</span>
+						</span>
+					</td>
+					<td>
+						{% if person.date_of_death %}
+							{{ person.date_of_death }}{% if person.age %} at the age of {{ person.age }}{% endif %}
+						{% endif %}
+					</td>
+				</tr>
+			{% endfor %}
+		</tbody>
+	</table>
 </div>
