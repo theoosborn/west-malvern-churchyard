@@ -2,10 +2,12 @@
 layout: default
 ---
 <h1>{{ page.id }}</h1>
-<p>Inscription:</p>
-<blockquote style="text-align:center;">{{ page.text }}</blockquote>
+{% if page.text %}
+    <h2>Inscription:</h2>
+    <blockquote style="text-align:center;">{{ page.text }}</blockquote>
+{% endif %}
 {% if page.notes %}
-    <p>Notes:</p>
+    <h2>Notes:</h2>
     <p>
         <i>
             {{ page.notes }}
