@@ -18,7 +18,7 @@ custom-javascript:
 					<b class="surname">{{ person.surname }}</b>, <span class="forenames">{{ person.forenames }}</span>
 				</span>
 				{% if person.date_of_death %}
-					died {{ person.date_of_death }} {% if person.age %}at the age of {{ person.age }}{% endif %}
+					died {{ person.date_of_death }}{% if person.age %} at the age of {{ person.age }}{% endif %}
 				{% endif %}
 			</li>
 		{% endfor %}
