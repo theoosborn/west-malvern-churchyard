@@ -17,7 +17,12 @@ layout: default
     <h2>People</h2>
     <ul>
         {% for person in people %}
-            <li>{{ person.surname }}, {{ person.forenames }}</li>
+            <li>
+                <b>{{ person.surname }}</b>, {{ person.forenames }}
+                {% if person.date_of_death %}
+                    died {{ person.date_of_death }}{% if person.age %} at the age of {{ person.age }}{% endif %}
+                {% endif %} 
+            </li>
         {% endfor %}
     </ul>
 {% endif %}
