@@ -14,9 +14,9 @@ For this purpose we divided the churchyard into three areas with graves, plus th
  
 * Area A lies between the church and the Old Vicarage.
 * Area B lies between the cattle grid and the main church door.
-* Area C is the Lower Churchyard between the Church and de Walden Road.
-* Area D, the newer Garden of Remembrance, is at the western end of Area A.
-* Area E, the older Garden of Remembrance, is to the immediate west of the church.
+* Area C is the lower churchyard between the church and De Walden Road.
+* Area D, the newer garden of remembrance, is at the western end of Area A.
+* Area E, the older garden of remembrance, is to the immediate west of the church.
 * Area M is a list of the memorials inside the church with their inscriptions (numbering is clockwise from north door).
 
 The inscriptions particularly on the older graves are often difficult to read and sometimes incomplete.  We have included a few comments and translations and these are all in italics.
@@ -24,4 +24,4 @@ The inscriptions particularly on the older graves are often difficult to read an
 We would like to keep the Project revised and updated and hope you will let us know of any errors or omissions you find and any additional information you can provide so that we can do so!
  
 Jim and Jenny Nisbet<br>
-[Jennywm2@gmail.com](mailto:Jennywm2@gmail.com)
+[jennywm2@gmail.com](mailto:Jennywm2@gmail.com)
