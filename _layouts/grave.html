@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
-<h1>{{ page.id }}</h1>
+<h2 style="margin-bottom: 0;">{{ page.id }}</h2>
+<h4 style="font-weight:lighter; margin-top:0;">{{ page.type }}</h4>
 {% if page.text %}
-    <h2>Inscription</h2>
+    <h3>Inscription</h3>
     <blockquote style="text-align:center;">{{ page.text }}</blockquote>
 {% endif %}
 {% if page.notes %}
-    <h2>Notes</h2>
+    <h3>Notes</h3>
     <p>
         <i>
             {{ page.notes }}
@@ -18,7 +19,7 @@ layout: default
 {% assign grave_id_two = page.id | prepend: ', ' %}
 {% assign people = site.data.people | where_exp: "grave","grave.grave_id contains grave_id_one or grave.grave_id contains grave_id_two or grave.grave_id == page.id" %}
 {% if people.size > 0 %}
-    <h2>People</h2>
+    <h3>People</h3>
     <ul>
         {% for person in people %}
             <li>
