@@ -12,7 +12,7 @@ In 2020 we decided to try to record all the graves and memorials in St James’s
  
 For this purpose we divided the churchyard into three areas with graves, plus the two gardens of remembrance:
  
-* Area A lies between the church and the old Vicarage.
+* Area A lies between the church and the Old Vicarage.
 * Area B lies between the cattle grid and the main church door.
 * Area C is the Lower Churchyard between the Church and de Walden Road.
 * Area D, the newer Garden of Remembrance, is at the western end of Area A.
