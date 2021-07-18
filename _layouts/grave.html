@@ -15,13 +15,26 @@ layout: default
         </i>
     </p>
 {% endif %}
-{% assign grave_id_one = page.id | append: ',' %}
-{% assign grave_id_two = page.id | prepend: ', ' %}
-{% assign people = site.data.people | where_exp: "grave","grave.grave_id contains grave_id_one or grave.grave_id contains grave_id_two or grave.grave_id == page.id" %}
-{% if people.size > 0 %}
-    <h3>People</h3>
+
+{% comment %}
+Find all the people relevant to this grave and push them to relevant_people array.
+{% endcomment %}
+
+{% assign relevant_people = "" | split: "," %}
+{% for person in site.data.people %}
+    {% assign grave_ids = person.grave_id | split: ', ' %}
+
+    {% if grave_ids contains page.id %}
+        {% assign relevant_people = relevant_people | push: person %}
+    {% endif %}
+
+{% endfor %}
+
+
+<h3>People</h3>
+{% if relevant_people.size > 0 %}
     <ul>
-        {% for person in people %}
+        {% for person in relevant_people %}
             <li>
                 <b>{{ person.surname }}</b>, {{ person.forenames }}
                 {% if person.date_of_death %}
@@ -30,4 +43,6 @@ layout: default
             </li>
         {% endfor %}
     </ul>
+{% else %}
+None found
 {% endif %}
