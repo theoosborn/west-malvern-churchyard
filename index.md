@@ -3,7 +3,7 @@ title: Introduction
 layout: default
 ---
 
-<figure style="float: right; max-width: 30vw; min-width: 10em;">
+<figure style="float: right; max-width: 250px;">
     <img class="responsive" alt="West Malvern" src="https://upload.wikimedia.org/wikipedia/commons/4/4c/West_Malvern_-_geograph.org.uk_-_787326.jpg" />
     <figcaption>St James's Church, West Malvern</figcaption>
 </figure>
