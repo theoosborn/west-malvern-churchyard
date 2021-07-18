@@ -1,0 +1,28 @@
+---
+title: Graves
+layout: default
+custom-javascript:
+    - "/assets/js/gravesList.js"
+---
+
+<div id="gravesList" class="list">
+    <input type="search" class="search" placeholder="Search here" />
+    <table>
+        <thead>
+            <tr>
+                <th style="width: 15%">Grave ID</th>
+                <th>Type</th>
+            </tr>
+        </thead>
+        <tbody class="list">
+            {% for grave in site.data.graves %}
+                <tr>
+                    <td>
+                        <a class="id" href="graves/{{ grave.id | downcase }}.html">{{ grave.id }}</a>
+                    </td>
+                    <td class="type">{{ grave.type }}</td>
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</div>
