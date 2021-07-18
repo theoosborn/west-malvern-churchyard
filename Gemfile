@@ -10,3 +10,4 @@ gem "jekyll"
 gem "webrick", "~> 1.7"
 
 gem "jekyll-datapage-generator", "~> 1.3"
+gem "jekyll-sitemap"
