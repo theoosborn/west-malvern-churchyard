@@ -18,7 +18,12 @@ custom-javascript:
 		<tbody class="list">
 			{% for person in site.data.people %}
 				<tr>
-					<td><a class="graveID" href="graves/{{ person.grave_id }}.html">{{ person.grave_id }}</a></td>
+					<td>
+						{% assign grave_ids = person.grave_id | split: ", " %}
+						{% for grave_id in grave_ids %}
+							<a class="graveID" href="graves/{{ grave_id }}.html">{{ grave_id }}</a>
+						{% endfor %}
+					</td>
 					<td>
 						<b class="surname">{{ person.surname }}</b>, <span class="forenames">{{ person.forenames }}</span>
 					</td>
