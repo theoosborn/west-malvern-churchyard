@@ -24,4 +24,4 @@ The inscriptions particularly on the older graves are often difficult to read an
 We would like to keep the Project revised and updated and hope you will let us know of any errors or omissions you find and any additional information you can provide so that we can do so!
  
 Jim and Jenny Nisbet<br>
-Jennywm2@gmail.com
+[Jennywm2@gmail.com](mailto:Jennywm2@gmail.com)
