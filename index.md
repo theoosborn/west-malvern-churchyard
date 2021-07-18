@@ -17,7 +17,7 @@ For this purpose we divided the churchyard into three areas with graves, plus th
 * Area C is the Lower Churchyard between the Church and de Walden Road.
 * Area D, the newer Garden of Remembrance, is at the western end of Area A.
 * Area E, the older Garden of Remembrance, is to the immediate west of the church.
-* Area M is a list of the memorials inside the church with their inscriptions.
+* Area M is a list of the memorials inside the church with their inscriptions (numbering is clockwise from north door).
 
 The inscriptions particularly on the older graves are often difficult to read and sometimes incomplete.  We have included a few comments and translations and these are all in italics.
  
