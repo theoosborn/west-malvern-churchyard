@@ -29,7 +29,7 @@ BATHURST,Tom Kellick,12 Jun 1988,,Born 27 Oct 1896,A124
 BATHURST,Rosina Beatrice,20 Jul 1993,,Born 6 Feb 1901 Wife of Tom,A124
 BEALE,Mary Jane,4 Jun 1972,54,,A128
 BEALE,Arthur,9 Sept 1974,59,Husband of Mary Jane,A128
-BEAN,Frances Eliza,6 June 1864,,Widow of Major George Bean R.H.A.,M19
+BEAN TOMLINSON,Frances Eliza,6 June 1864,,Widow of Major George Bean R.H.A.,M19
 BEARD,Alice,19 Jan 1973,78,,A64
 BEARD,George,14 Oct 1980,86,,A64
 BEARD,Alfred,23 July 1973,46,Son of Alice and George,A64
@@ -54,7 +54,7 @@ BISHOP,Jane,7 Nov 1890,77,Wife of Thomas,A31
 BISHOP,Alice E,26 Jan 1951,76,,C337
 BISHOP,Percy,9 Nov 1921,18,Son of above,C337
 BLEBY,Violet Abigail,8 Jan 1980,,Born 8 May 1904,A58
-BOMFORD,Frank Oliver,8 Jun 1924,69,Also plaque in church M24,C443
+BOMFORD,Frank Oliver,8 Jun 1924,69,Also plaque in church M24,"M24, C443"
 BOMFORD,Edith,8 Jun 1935,68,Wife of above,C443
 BRAZIER,Betty Doreen,5 Oct 1989,57,,A35
 BRAZIER,Alfred Roy,24 Mar 2009,77,Husband of Betty Doreen,A35
@@ -128,11 +128,11 @@ COZENS,Agnes Sarah,11 Feb 1961,,Bobbie’,C344
 COZENS,Alan James Murdoch,23 Jul 1970,,"Husband of above, Lt Col, of Tarff WM",C344
 CRAIG,Agnes Isabel,1960,,Born 1887,A97
 CRAIG,Jessie Florence,1971,,Born 1886,A97
-CRAIG,Alice Elizabeth,20 Mar 1939,88,Also M13 plaque,C278
-CRAIG,Lucy Grace,3 Jan 1943,88,Also M13 plaque,C278
-CRAIG,Jane Mary,21 Feb 1924,75,Also M13 plaque,C303
-CRAIG,Edith,7 Mar 1933,76,Also M13 plaque,C349
-CRAIG,Margaret,2 Jan 1930,77,Also M13 plaque,C349
+CRAIG,Alice Elizabeth,20 Mar 1939,88,Also M13 plaque,"M13, C278"
+CRAIG,Lucy Grace,3 Jan 1943,88,Also M13 plaque,"M13, C278"
+CRAIG,Jane Mary,21 Feb 1924,75,Also M13 plaque,"M13, C303"
+CRAIG,Edith,7 Mar 1933,76,Also M13 plaque,"M13, C349"
+CRAIG,Margaret,2 Jan 1930,77,Also M13 plaque,"M13, C349"
 CRANE,Samuel James,1 Jul 1925,25,,C330
 CRANE,Kate Maud,9 Dec 1938,66,,C330
 CROXALL,Edith A,1 May 1956,75,,C353
@@ -201,7 +201,7 @@ FORD,Constance,,,No dates or details,A82
 FORD,Beatrice Mary,,,No dates or details,A82
 FORD,Susan Henrietta,2 Jan 1939,98,,C279
 FOWLER,Jennie,1955,,Born 1874,C340
-FREEMAN,Anne,May 1881,,Wife of Chas Earle Freeman,"A12a, M5, M25"
+FREEMAN,Anne,May 1881,,Wife of Charles Earle Freeman,"A12a, M5, M25"
 FREEMAN,Mary,13 Aug 1930,,Born 22 May 1877 wife of Charles Henry Earle Freeman,A16
 FREEMAN,Charles Henry Earle,20 Mar 1938,,Born 1 Feb 1885,A16
 FREEMAN,Maude Alice Louise,18 Oct 1936,89,Widow of Rev C E Freeman,A27
@@ -273,7 +273,7 @@ HAMMOND,George,23 Mar 1908,83,"Of Pillows Pitch, West Malvern",B230
 HAMMOND,Hannah,26 Nov 1922,64,,C351
 HAMMOND,Charles,2 Oct 1916,19,"Son of above, killed in France",C351
 HAMMOND,Thomas,24 Jul 1949,92,,C351
-HANBURY,Rev John (MA),4 Apr 1899,43,Curate West Malvern 18 years,"A25, M6"
+HANBURY,John (Rev) (MA),4 Apr 1899,43,Curate West Malvern 18 years,"A25, M6"
 HANBURY,Gertrude Jane Lane,Mar 1923,,"Widow of above, born 5 Jul 1865 buried Amersham",A25
 HANBURY,John Humphrey Freer (MA),18 June 1934,,"Son of above, born 25 June 1886 WM, buried in Seville",A25
 HAND,Eleanor J,5 Jan 1924,,,C241
@@ -323,7 +323,7 @@ HAYLING,Esther,11 Ap 1931,72,Daughter of above,B144
 HAYLING,Alice,10 Jan 1949,86,Also daughter of above,B144
 HAYWARD,David Oldham,9 Oct 2015,,Born 15 Nov 1934,B157
 HEALY,Annie May,9 Feb 1915,9,"Only child of W & M Healy<br>9 years and 9 months",B234
-HENDERSON,Annie Buchanon,,,Framed dedication,M2
+HENDERSON,Annie Buchanan,,,Framed dedication,M2
 HILL,Joanna,14 May 1886,78,Late of Redmarley d’Abitot,A39
 HILL,Richard,12 Sept 1967,61,,A30
 HILL,Ted,30 Dec 1991,84,,A30
@@ -334,7 +334,7 @@ HODGES,Winifred,,,No further details,B158
 HODGES,Norman,,,,B158
 HODGETTS,Clarence,30 Jun 1946,,,C272
 HODGETTS,Catherine,15 Aug 1965,,Wife of above,C272
-HODGKINS,Rev G J,,,Vicar,M22
+HODGKINS,G J (Rev),,,Vicar,M22
 HODGSON,Aileen Muriel,17 Dec 1997,,Wife of Rev C H Hodgson born 19 Oct 1905,B177
 HODGSON,Kathleen Rosemary Corry,7 May 1999,,Born 30 Sept 1906,B177
 HOLBROOK,Bertha,25 June 1973,89,,A60
@@ -356,7 +356,7 @@ HUGHES,Thomas Jones,20 Nov 1933,58,,C387
 HUGHES,William John,17 Sept 1935,21,"Died in Muree, India",C387
 HURFORT,Gerry,2016,,Born 1947,B153
 HUTCHINSON,Elizabeth,Nov 1905,8..,Of Rock Villa,A28
-HUXLEY,Major John Earle,,,Framed dedication,M2
+HUXLEY,John Earle (Major),,,Framed dedication,M2
 HUXLEY,Ada Maud,,,Framed dedication,M2
 JACQUET,Nathalie Marie-Helene,8 Jun 2004,,Born 2 October 1966,B161
 JENKINS,Charles John,28 Sep 1901,,Born 6 August 1830,B203
@@ -422,7 +422,7 @@ LLOYD,Walter,1974,,Born 1907. On flower holder,C338
 LONGLEY,Charles A.L.,9 Sept 1934,57,,C389
 LYNES,Edith Rose,6 Sep 1956,72,,C350
 LYNES,Lenard,17 Jan 1969,,Husband of above,C350
-MACDONALD,Rev T Mosse,,,Vicar 1903 - 1910,M7
+MACDONALD,T Mosse (Rev),,,Vicar 1903 - 1910,M7
 MAILE,Borga May,17 Mar 1972,,Born 6 May 1893,A59
 MAILE,Harold James,13 Oct 1998,,Born 13 Aug 1926,B182
 MAILE,Margaret Joan,8 Dec 2001,,Born 20 June 1931,B182
@@ -433,7 +433,7 @@ MARKER,Henry,20 Aug 1940,,,C401
 MARKER,Florence,2 Oct 1964,,Wife of above,C401
 MARLOW,Mary Louisa,9 Dec 1921,,Born 21 Sept 1863,C339
 MARLOW,Eliza,13 July 1931,,Born 2 Feb 1873,C339
-MARSHALL,Ben Cumming,3 Jan 2013,1 day,Also memorial bench on path nearby B439,B162
+MARSHALL,Ben Cumming,3 Jan 2013,1 day,Also memorial bench on path nearby B439,"B162, B439"
 MARTIN,John,28 Apr 1902,76,,B228
 MARTIN,Rhoda,20 Nov 1909,,Born 30 March 1820,B228
 MARTIN,Margaret,7 Feb 1902,78,Interred at Willaston,B228
@@ -589,8 +589,8 @@ SCOTT,Janet Lyn,18 Nov 1996,40,,B187
 SHEARER,William James,24 Jun 2020,76,,B135
 SIDES,Desmond,24 Dec 1986,73,,A122
 SIDES,Elizabeth,26 Jul 2010,89,Wife of Desmond,A122
-SHILTON,John,1946,,Born 1863. Also M17,C271
-SHILTON,Margaret,1956,,Born 1866. Also M17,C271
+SHILTON,John,1946,,Born 1862/3. Also M17,"C271, M17"
+SHILTON,Margaret,1956,,Born 1865/6. Also M17,"C271, M17"
 SHORT,J.L. (Brigadier) C.B.E.,17 Mar 1958,,"Born 25 Apr 1887, Kings Rgt, Liscrevan Brockhill Rd WM",C345
 SINCLAIR,Barbara,1996,84,"Wife of Leonard, née Payne",B185
 SMART,Francis John,1996,,Born 1923,B183
@@ -694,3 +694,7 @@ WRAY,Spencer James Morgan,1983,,Born 1979,A3
 WYLEY,Annie Margaret,May 1949,,Born Sept 1867,C428
 WYLEY,William Kiteley,Sept 1952,,Born May 1868 Canon Ripon,C428
 WYLEY,Mary Margaret,July 1973,,Born Jan 1904 daughter of above,C428
+MORRIS,James Anthony,16.05.2002,,,"D3, M14"
+MORRIS,Enid Rosemary,12.10.2017,,,D3
+WEST,Mr & Mrs,,,,M20
+WHITFIELD,Phyllis,1963,,,"M21, E40"
