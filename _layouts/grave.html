@@ -14,7 +14,9 @@ layout: default
         </i>
     </p>
 {% endif %}
-{% assign people = site.data.people | where_exp:"grave","grave.grave_id contains page.id" %}
+{% assign grave_id_one = page.id | append: ',' %}
+{% assign grave_id_two = page.id | prepend: ', ' %}
+{% assign people = site.data.people | where_exp: "grave","grave.grave_id contains grave_id_one or grave.grave_id contains grave_id_two or grave.grave_id == page.id" %}
 {% if people.size > 0 %}
     <h2>People</h2>
     <ul>
