@@ -4,7 +4,7 @@ layout: default
 ---
 
 <figure style="float: right; max-width: 250px;">
-    <img class="responsive" alt="West Malvern" src="/assets/images/west_malvern.jpg" />
+    <img class="responsive" alt="West Malvern" src="/assets/images/img_2417.jpg" />
     <figcaption>St James's Church, West Malvern</figcaption>
 </figure>
 
