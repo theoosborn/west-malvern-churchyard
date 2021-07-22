@@ -26,4 +26,3 @@ In the `graves.csv` file, there are 4 fields:
 2. `type` - describe the appearance of the grave
 3. `text` - write the inscription from the grave (optional)
 4. `notes` - any extra details (optional)
-
