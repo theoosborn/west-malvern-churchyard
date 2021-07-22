@@ -16,7 +16,8 @@ custom-javascript:
             </tr>
         </thead>
         <tbody class="list">
-            {% for person in site.data.people %}
+            {% assign people = site.data.people | sort: "surname" %}
+            {% for person in people %}
                 <tr>
                     <td>
                         {% assign grave_ids = person.grave_id | split: ", " %}
