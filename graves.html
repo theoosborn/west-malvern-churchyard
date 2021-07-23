@@ -15,7 +15,8 @@ custom-javascript:
             </tr>
         </thead>
         <tbody class="list">
-            {% for grave in site.data.graves %}
+            {% assign graves = site.data.graves | sort: "id" %}
+            {% for grave in graves %}
                 <tr>
                     <td>
                         <a class="id" href="graves/{{ grave.id | downcase }}.html">{{ grave.id }}</a>
