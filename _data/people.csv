@@ -493,7 +493,7 @@ PINDER,Anne Braithwaite,13 Jan 1892,98,Widow of Above,A7
 PITT,Henry,24 Oct 1899,,Born 2 Jan 1809,A21
 PITT,Ronald Philip,2 Apr 1992,63,,A36
 PITT,William,26 Sept 1859,39,,A101
-PITT,Mary,14 Ap 1887,69,Wife of William,A101
+PITT,Mary,14 Apr 1887,69,Wife of William,A101
 PITT,Ivy,,,Memorial plaque,B166
 PITT,Abia Gardiner,12 Jun 1908,53,,B202
 PITT,William John,9 Oct 1929,,,C251
@@ -669,7 +669,7 @@ WARNEFORD,Elizabeth,15 July 1904,92,,A237
 WATKINS,Stephen W,3 Apr 1942,,,C275
 WATKINS,Mary A,24 Apr 1952,,Wife of above,C275
 WATSON,Alfred,8 Mar 1919,,"Master of WM Boys School for 38 years, born 1846",A238
-WENGERS,Fanny Countess,21 Sept 1877,,+ Caroline Hoskins Deane,A30
+WENGERS [WENGIERSKI],Fanny (Countess),21 Sept 1877,,+ Caroline Hoskins Deane,A30
 WEST,James,6 Nov 1858,82,,A2
 WESTON,Maureen Rosemary,28 Oct 2011,77,,B197
 WHETSTONE,Fanny Helen,30 Aug 1916,,,C299
@@ -859,4 +859,7 @@ KING,George William,1979,,,D42
 DYER,Margaret Winifred,1985,,,D43
 LEWIS,Barbara,1995,,sister of Margaret Winifred Dyer,D43
 GWYNN née BASKERVILLE,Margaret,1992,,,D44
-WATSON,Elizabeth,Jan 28th 1886,,A238
+WATSON,Elizabeth,Jan 28th 1886,,,A238
+H,J,1913,,,A13
+H,S,1934,,,A13
+HAYWOOD,,,,,A1
