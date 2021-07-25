@@ -26,4 +26,4 @@ We would like to keep the Project revised and updated and hope you will let us k
 Jim and Jenny Nisbet<br>
 [jennywm2@gmail.com](mailto:Jennywm2@gmail.com)
 
-(Burial registers for 1845-1951 are available to consult on microfilm at Worcestershire Archive & Archaelogy Service, the Hive, Worcester.)
+(Burial registers for 1845-1951 are available to consult on microfilm at Worcestershire Archive & Archaeology Service, the Hive, Worcester.)
