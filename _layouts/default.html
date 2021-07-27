@@ -31,6 +31,9 @@
                 <a href="https://github.com/theoosborn/west-malvern-churchyard">View on GitHub</a>
             </p>
         </footer>
+        {% if jekyll.environment == "production" %}
+            <script data-goatcounter="https://westmalvernchurchyard.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+        {% endif %}
     </body>
     {% for javascript in page.custom-javascript %}
         <script src="{{ javascript }}"></script>
