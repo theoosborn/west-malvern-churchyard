@@ -16,4 +16,4 @@ page_gen:
     name: id
     template: grave
 
-exclude: ["west-malvern-memorials.sublime-project", "west-malvern-memorials.sublime-workspace" "README.md"]
+exclude: ["west-malvern-memorials.sublime-project", "west-malvern-memorials.sublime-workspace", "README.md"]
