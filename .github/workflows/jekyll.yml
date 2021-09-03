@@ -15,3 +15,28 @@ jobs:
       with:
         bundler-cache: true
     - run: JEKYLL_ENV=production bundle exec jekyll build
+    - name: Upload artifact
+      uses: actions/upload-artifact@v2
+      with:
+        name: build
+        path: _site
+      
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+    - uses: actions/checkout@v2
+    - uses: actions/download-artifact@v2
+      with:
+        name: build
+        path: build
+    - name: "Prepare SSH key and known hosts"
+      run: |
+        mkdir -p ~/.ssh
+        echo "${{ secrets.SSH_PRIVATE_KEY }}" > ~/.ssh/known_hosts
+        chmod 600 ~/.ssh/id_rsa
+        ssh-keyscan ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
+    - name: Run deploy script
+      run: |
+        rsync -rSlh --stats ./build/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/home/deploy/
+
