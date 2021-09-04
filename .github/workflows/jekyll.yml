@@ -38,4 +38,4 @@ jobs:
         ssh-keyscan ${{ secrets.SSH_HOST }} >> ~/.ssh/known_hosts
     - name: Run deploy script
       run: |
-        rsync -rSlh --stats ./build/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/html/westmalvernchurchyard.org.uk/
+        rsync -azh --stats --delete ./build/ ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }}:/var/www/html/westmalvernchurchyard.org.uk/
