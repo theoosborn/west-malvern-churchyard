@@ -6,7 +6,7 @@ layout: default
 <img class="responsive map" src="/assets/images/map.png" />
 <a href="/assets/images/map.png">View/Download</a>
 
-1915-1926 burial map
+# 1915-1926 burial map
 This map covers Areas C and E (see above).
 Descriptors used to indicate approximate location:
 * 1926CSouth - south section of Area C
@@ -14,8 +14,8 @@ Descriptors used to indicate approximate location:
 * 1926CEast - east section of Area C (east of grass path)
 * 1926E - section covering Area E
 
-<img class="responsive map" src="/assets/images/1926image.jpg" />
-<a href="/assets/images/1926image.jpg">View/Download</a>
+<img class="responsive map" src="/assets/images/1926 image.JPG" />
+<a href="/assets/images/1926 image.JPG">View/Download</a>
 
 <img class="responsive map" src="/assets/images/1926.png" />
 <a href="/assets/images/1926.png">View/Download</a>
