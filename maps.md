@@ -7,7 +7,7 @@ layout: default
 <a href="/assets/images/map.png">View/Download</a>
 
 # 1915-1926 burial map
-This map covers Areas C and E (see above).
+This map covers Areas C and E (see above) and shows burials as opposed to grave markers.
 Descriptors used to indicate approximate location:
 * 1926CSouth - south section of Area C
 * 1926CWest - west section of Area C (west of grass path)
