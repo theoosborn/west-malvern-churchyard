@@ -14,8 +14,8 @@ Descriptors used to indicate approximate location:
 * 1926CEast - east section of Area C (east of grass path)
 * 1926E - section covering Area E
 
-<img class="responsive map" src="/assets/images/1926 image.JPG" />
-<a href="/assets/images/1926 image.JPG">View/Download</a>
+<img class="responsive" src="/assets/images/burial_plan.jpg" />
+<a href="/assets/images/burial_plan.jpg">View/Download</a>
 
 <img class="responsive map" src="/assets/images/1926.png" />
 <a href="/assets/images/1926.png">View/Download</a>
