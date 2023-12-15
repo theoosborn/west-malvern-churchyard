@@ -8,7 +8,7 @@ AUSTEN,Caroline Amelia,14 May 1929,,Wife of Henry Alfred,"C249, 1926CWest"
 AUSTEN,Henry Alfred,24 Mar 1935,,Captain,"C249, 1926CWest"
 BAGULEY,Herbert,18 Aug 1942,,,C370
 BAGULEY,Mary E,21 Mar 1948,,,C370
-BAIRD,Georgina Marion,4 May 1922,,Born 9 Dec 1876,C355
+BAIRD,Georgina Marion,4 May 1922,,Born 9 Dec 1876<br>register 2049,"C355, 1926CSouth"
 BAKER,Edith Gladys,16 Mar 1964,,Born 28 Apr 1912,A239
 BAKER,Reginald,16 Aug 1964,,Born 20 Jun 1909,A239
 BAKER,Dennis Wilfred,17 Aug 2003,,Born 2 Feb 1920,B173
@@ -47,7 +47,7 @@ BIGGIN,Rose Delilah,1951,,Born 1872,C266
 BIGGIN,Frederick Murrow,1953,,Born 1872,C266
 BIGGIN,Annie Maud,2 Dec 2006,,Born 9 Dec 1909,C266
 BIGGS,Fanny Elizabeth,10 Mar 1928,65,,C258
-BIGGS,James,10 Feb 1917,,Born 27 August 1885,C261
+BIGGS,James,10 Feb 1917,,Born 27 August 1885<br>register 1079,"C261, 1926CSouth"
 BIRD,Alice Emma,18 Jan 1941,83,,C421
 BISHOP,Thomas,8 Aug 1875,65,,A31
 BISHOP,Jane,7 Nov 1890,77,Wife of Thomas,A31
@@ -98,9 +98,9 @@ CHARSLEY,Julia Elizabeth,18 Jul 1924,,Born 27 Sept 1854,B176
 CLARE,Percy,15 May 1937,,,C282
 CLARE,Catherine M,28 Nov 1958,,,C282
 CLARE,Dorothy,6 Aug 1982,,Born 10 Feb 1905,C282
-CLIFFORD,Winifred,3 Jun 1918,14,,C260
-CLIFFORD,William,28 Nov 1916,52,,C301
-CLIFFORD,Amelia,27 Sept 1922,64,Wife of above,C301
+CLIFFORD,Winifred,3 Jun 1918,14,register 1096,"C260, 1926CSouth"
+CLIFFORD,William,28 Nov 1916,52,register 1075,"C301, 1926CSouth"
+CLIFFORD,Amelia,27 Sept 1922,64,Wife of above<br>register 2055,"C301, 1926CSouth"
 CLIVE,Charlotte H,25 Aug 1919,76,,C319
 COCK,Charles Hornblower,8 Jan 1907,56,,A112
 COCK,Humphrey Charles Castle,11 May 1912,18,"Drowned at sea, son of Charles Hornblower",A112
@@ -110,7 +110,7 @@ COLEMAN,James,25 Mar 1947,89,,C407
 COLEMAN,Fanny,5 Aug 1956,83,,C407
 COLEMAN,Reginald,24 Apr 1965,63,,C407
 COLLICOTT,Mary,11 Jun 1886,90,Of Mount Pleasant WM,A127
-COLLICOTT,Esther Agnes,11 Jan 1916,,,C294
+COLLICOTT,Esther Agnes,11 Jan 1916,,register 1060,"C294, 1926CSouth"
 CONN,Percy,9 Feb 1967,64,,A133
 CONN,Alice,7 Jun 1974,69,Wife of Percy,A133
 CONNOR,Emma,27 Jun 1939,62,,C399
@@ -167,7 +167,7 @@ DOWN,Lavinia,24 Dec 1876,60,Fallen headstone,A102
 DUDLEY,Lorna Mary,18 Sep 2005,,Born 28 January 1925,B170
 DUNPHY,Nancy,30 Jan 1980,,Born 9 August 1900,A56
 EICHBAUM,F A G,23 Oct 1909,69,"Priest, founder St Edwards",B150
-ELLIOTT,Mary Beatrice,1930,,Died on Easter Day,C292
+ELLIOTT,Mary Beatrice,1930,,Died on Easter Day<br>register 2156,"C292, 1926CEast"
 EVANS,Mary Ann,2 Jul 1904,71,,B231
 EVANS,Henry,20 Mar 1913,54,Son of above,B231
 EVANS,James,17 Feb 1928,95,Husband/father of above,B231
@@ -245,7 +245,7 @@ GRIFFITHS,Alice,26 Dec 1935,,,C414
 GUMBLEY,Howard Willis Wilton,24 May 1978,68,,A105
 GUMBLEY,Winnie Edna,24 Mar 1995,80,,A105
 GURNEY,Agnes Brita Lingen,May 1967,,Born August 1876,A131
-GWYNN,Frank,4 Mar 1919,,,C293
+GWYNN,Frank,4 Mar 1919,,register 2007,"C293, 1926CSouth"
 GWYNNE,Alice,7 Oct 1975,,,A78
 GWYNNE,John,16 Sept 2005,,Husband of above,A78
 GWYNNE,Elizabeth M.,9 Jan 1962,77,,A91
@@ -253,8 +253,8 @@ GWYNNE,Sydney E.,24 Mar 1965,80,,A91
 GWYNNE,Reginald Samuel Ralph,30 Aug 1969,52,,A129
 GWYNNE,Iris Gwendoline,9 Ap 2002,84,Wife of Reginald,A129
 GWYNNE,Samuel,31 Aug 1927,47,,C315
-GWYNNE,John,14 May 1930,,,C361
-GWYNNE,Emma,29 Apr 1935,83,Wife of above,C361
+GWYNNE,John,14 May 1930,,register 2157,"C361, 1926CEast"
+GWYNNE,Emma,29 Apr 1935,83,Wife of above<br>register 2233,"C361, 1926CEast"
 HALL,William,12 May 1888,77,,A26
 HALL,Ann,24 Mar 1891,75,Wife of William,A26
 HALL,James,8 Jan 1981,72,,A53
@@ -262,11 +262,11 @@ HALL,Pearl,24 Ap 1980,41,,A55
 HALL,Francis W,18 Feb 1956,77,,C341
 HALL,Alice Marion,5 Jan 1961,80,Wife of above,C341
 HALLETT,Marion,1938,,Born 1893,C295
-HALLETT,George,1916,,Born 1847,C295
+HALLETT,George,1916,,Born 1847<br>register 1072,"C295, C1926South"
 HALLETT,Edith Marie,16 Feb 1972,76,,C295
 HALLETT,Brian Maurice,18 Nov 1972,84,,C295
 HAMER,Edith Gertrude,11 Mar 1961,,Daughter of Henry & Anne Hamer of Bishopstone,A95
-HAMILTON,Francis Baillie,22 Nov 1919,,Born 30 Sept 1829,C356
+BAILLIE-HAMILTON,Francis,22 Nov 1919,,Born 30 Sept 1829<br>register 2018,"C356, 1926CSouth"
 HAMMOND,Doris Nancy,29 Nov 2011,,Nancy’ born 6 Oct 1924,B198
 HAMMOND,Mary Ann,27 Sep 1906,83,"Of Pillows Pitch, West Malvern",B230
 HAMMOND,George,23 Mar 1908,83,"Of Pillows Pitch, West Malvern",B230
@@ -298,7 +298,7 @@ HARRIS,Phyllis Mary,1 Oct 1981,67,,A50
 HARRIS,Harold James,2 July 1984,78,Husband of above,A50
 HARRIS,John,18 Nov 1996,71,,B175
 HARRIS,Pamela Mary,10 Jan 2020,88,,B175
-HARRIS,Catherine M,11 Nov 1915,78,,C296
+HARRIS,Catherine M,11 Nov 1915,78,register 1058,"C296, 1926CSouth"
 HARRIS,Jessie,13 Apr 1902,65,Sister of above,C296
 HARRIS,Nigel D,13 Oct 1944,,five and a half months,C306
 HARRIS,Thomas,20 Jul 1920,88,,C316
@@ -376,7 +376,7 @@ JONES,Frederick C,1883,,Born 9th February 1864,A40
 JONES,Stella Maria,26 Nov 1972,83,,A65
 JONES,Bertie Frederick,29 Dec 1972,84,Husband of Stella Maria,A65
 JONES,Ada Alice,10 Oct 1933,55,,C288
-JONES,Elizabeth,30 Jul 1915,,Short iron marker,C441
+JONES,Elizabeth,30 Jul 1915,,Short iron marker<br>register 1053,"C441, 1926CSouth"
 JOYNER,Edith Helen,1979,,Born 1900,A106
 JOYNER,Reuben,11 Oct 1905,,Born 27 Sept 1827,B232
 JOYNER,Eleanor,19 Apr 1910,,"Wife of above, born 27 Aug 1830",B232
@@ -415,7 +415,7 @@ LEWIS,Sarah Louisa,1947,,Born 1860 wife of above,C246
 LEWIS,Frank James,1953,,Born 1883 son of above,C246
 LLOYD,James,28 Jan 1875,,Born 31 Jul 1808,A121
 LLOYD,Milborough,2 Jan 1894,63,Wife of James,A121
-LLOYD,W.P.,15 Oct 1915,,,C297
+LLOYD,W.P.,15 Oct 1915,,register 1056,"C297, C1926South"
 LLOYD,Lucy,11 Feb 1955,79,,C338
 LLOYD,Thomas,19 May 1955,80,Husband of above,C338
 LLOYD,Walter,1974,,Born 1907. On flower holder,C338
@@ -438,14 +438,14 @@ MARTIN,John,28 Apr 1902,76,,B228
 MARTIN,Rhoda,20 Nov 1909,,Born 30 March 1820,B228
 MARTIN,Margaret,7 Feb 1902,78,Interred at Willaston,B228
 MARTIN,Hugo Hamilton,,,On altar rail,M10
-MARTIN,John Beecham,6 May 1918,66,Harcourt Cottage WM,C360
+MARTIN,John Beecham,6 May 1918,66,Harcourt Cottage WM<br>register 1095,"C360, 1926CSouth"
 MATTICK,S.M. (Sue),9 Aug 1939,,,C416
 McCANN,George,14 Jan 1894,,,B210
 McCANN,Sarah,20 May 1922,,,C354
 MEEK,Stuart,1985,,Born 1930,A116
 MERRYDAY,Thomas George,16 May 1899,53,Of Grosvenor Cottage WM,A23
 MERRYDAY,Mary Ann,26 Jan 1900,,Wife of Thomas George,A23
-METCALFE,Caroline Mabel,22 Jul 1916,39,"Wife of H.F. Metcalfe, Hillside",C300
+METCALFE,Caroline Mabel,22 Jul 1916,39,"Wife of H.F. Metcalfe, Hillside<br>register 1069","C300, 1926CSouth"
 MITCHELL,Thomas,9 Oct 1953,83,,C324
 MITCHELL,Mira,9 Jun 1956,85,Wife of above,C324
 MORGAN,Ann Jennifer,24 Mar 2014,77,,B200
@@ -463,8 +463,8 @@ NICHOLAS,Muriel Mary,March 1976,90,,A84
 NICHOLAS,Clarence William,1994,101,Husband of Muriel Mary,A84
 NICOLET,Dora Jeanne Sophie,21 Aug 1952,,Born 6 Dec 1880,C263
 OVENS,Jane,21 Feb 1885,43,Wife of James Ovens,A38
-PAGE,Kate L,21 Oct 1925,52,,C334
-PAGE,Edward,9 Sept 1926,56,Husband of above,C334
+PAGE,Kate L,21 Oct 1925,52,register 2006,"C334, 1926CSouth"
+PAGE,Edward,9 Sept 1926,56,Husband of above<br>register 2046,"C334, 1926CSouth"
 PARKER,Reginald,22 May 1911,,Born 21 Jan 1846,A103b
 PARKER,Reginald Irving,18 Mar 1922,,Bn 10 Nov 1883 son of above,A103b
 PARKER,Margaret Irving,3 Ap 1936,81,,A103b
@@ -518,8 +518,8 @@ POWELL,Gladys Myra,24 Dec 1984,66,,A51
 POWELL,Harry William,8 June 1988,73,Husband of above,A51
 PREECE,James,1938,50,,C280
 PREECE,Mercy,1986,97,Wife of above,C280
-PREECE,James,30 Aug 1916,85,,C298
-PREECE,Mary,25 Feb 1921,85,Wife of above,C298
+PREECE,James,30 Aug 1916,85,register 1071,"C298, 1926CSouth"
+PREECE,Mary,25 Feb 1921,85,Wife of above<br>register 2031,"C298, 1926CSouth"
 PRICE,Jane,7 Aug 1897,76,,A9
 PRICE,Philip,6 June 1906,75,Husband of above,A9
 PRICE,Isaac,3 May 1902,73,,A236
@@ -570,7 +570,7 @@ RUCK,Winifred Mary,10 Mar 1900,5,,A224
 RUCK,Percy James,20 Mar 1900,8,,A224
 RUSHTON,Arthur George Melville,1935,,Born 1874. Priest,C390
 RUSHTON,Mabel Tryphena,16 Apr 1958,,Wife of above,C390
-RUTHERFORD,Robert Kemp,7 Jun 1917,44,M.R.C.V.S.,C262
+RUTHERFORD,Robert Kemp,7 Jun 1917,44,"M.R.C.V.S.<br>register 1084","C262, 1926CSouth"
 RUTHERFORD,Annie,27 Nov 1938,,,C364
 RYLAND,Fanny,25 May 1891,,"Of Birmingham, bn 4 Jul 1847",B190
 SALMON,Rose Helen,14 Oct 1930,,,C409
@@ -639,10 +639,10 @@ THOMPSON,Doreen Monica,2010,,"Wife of Maurice, born 1929",A32
 THOMPSON,Clementine M,1985,,Born 1908,A115
 THOMPSON,Eric Alfred,28 Nov 1986,77,Husband of Clementine,A115
 THOMPSON,Nigel Anthony Gregor,23 Jan 2002,,Born 21 March 1957,B184
-THORPE,Roland,1925,,Born 1853,C302
-THORPE,Elizabeth,1917,,Born 1858,C302
+THORPE,Roland,1925,,Born 1853<br>register 2089,"C302, 1926CSouth"
+THORPE,Elizabeth,1917,,Born 1858<br>register 1035,"C302, 1926CSouth"
 THORPE,Henry Roland,1952,,Born 1878,C302
-TODD,Howard,20 Jun 1960,,Born 26 Nov 1877,A88
+TODD,Howard,20 Jun 1960,,Born 26 Nov 1877,"A88, M27"
 TRANTER,Nathaniel,12 Jan 1908,82,In kerbed enclosure,B143
 TRANTER,Jane,9 May 1928,83,2nd wife of Nathaniel,B143
 TRANTER,Harriet,12 Dec 1894,73,Wife of Nathaniel,B143
@@ -672,8 +672,8 @@ WATSON,Alfred,8 Mar 1919,,"Master of WM Boys School for 38 years, born 1846",A23
 WENGERS [WENGIERSKI],Fanny (Countess),21 Sept 1877,,+ Caroline Hoskins Deane,A30
 WEST,James,6 Nov 1858,82,,A2
 WESTON,Maureen Rosemary,28 Oct 2011,77,,B197
-WHETSTONE,Fanny Helen,30 Aug 1916,,,C299
-WHETSTONE,Annie,17 Mar 1944,,Sister of above,C299
+WHETSTONE,Fanny Helen,30 Aug 1916,,register 1070,"C299, 1926CSouth"
+WHETSTONE,Annie,17 Mar 1944,,Sister of above<br>register 2368,"C299, 1926CSouth"
 WHITE,William Walter,1932,,Born 1896,C410
 WILCOX,Daniel David,12 Jan 1990,,Died at five hours old,A4
 WILCOX,Frank,,,On flower holder,C405
@@ -688,7 +688,7 @@ WINTER,George Mitchell,28 May 1930,,"O.B.E., J.P., M.R.C.S.",C357
 WINTER,Mildred Marion,25 Sept 1931,,Wife of above,C357
 WOOD,Elizabeth Jane,25 Apr 1921,63,,C406
 WOODWARD,Mary,7 Sept 1938,,,C398
-WOOKEY,Agnis,19 Jul 1961,77,Grave with J & M Preece,C298
+WOOKEY,Agnis,19 Jul 1961,77,Grave with J & M Preece<br>register 183,"C298, 1926CSouth"
 WOOLDRIDGE,Evelyn Mary,3 Dec 1934,,,C285
 WRAY,Spencer James Morgan,1983,,Born 1979,A3
 WYLEY,Annie Margaret,May 1949,,Born Sept 1867,C428
@@ -867,3 +867,42 @@ DABLE,Antonia Joy,September 2nd 2018,,,D45
 GIBBONS,Martha,March 6th 1876,89,,D454
 DEVONSHIRE,Sarah Elizabeth,March 12th 1882,,wife of George Devonshire,D455
 DAKIN,Eric Thomas,24th August 2021,,,B193
+EACOTT,E J,,,register 1067 2279,1926CSouth
+BOWEN,C E,,,register 1063,1926CSouth
+COGILL,Elizabeth Margaret,1964,,,M26
+MOSELEY,E,,,register 1062,1926CSouth
+BALLINGER,J,,,register 1061,1926CSouth
+BRAZIER,M J,,,register 1059,1926CSouth
+SELLICK,E P,,,register 1055,1926CSouth
+ELLISON,M A,,,register 1054,1926CSouth
+JONES,E,,,register 1097,1926CSouth
+BRAZIER,J,,,register 1094,1926CSouth
+NICHOLLS,M,,,register 1090,1926CSouth
+GWYNNE,R,,,register 1086,1926CSouth
+HALLS,,,,register 569,1926CSouth
+COLLICOTT,,,,register 2391,1926CSouth
+HALLETT,,,,register 324 and 335,1926CSouth
+PITT,C W,,,register 1068,1926CSouth
+WOODYATT,Mary,,,register 2004,1926CSouth
+SPARREY,A E,,,register 2003,1926CSouth
+BRAZIER,W J,,,register 2002,1926CSouth
+ELSMORE,W G,,,register 2000,1926CSouth
+BRUTON,C,,,register 1098,1926CSouth
+JONES,W J,,,register 1078,1926CSouth
+JONES,,,,register 63 and 2333,1926CSouth
+HANDY,J,,,register 1076,1926CSouth
+WARNER,E,,,register 1074,1926CSouth
+HAMMOND,H,,,register 1073,1926CSouth
+DRINKWATER,F,,,register 2011,1926CSouth
+LANGFIELD,J,,,register 2010,1926CSouth
+BROOKES,T,,,register 2009,1926CSouth
+PAGE,,,,register 21,1926CSouth
+SOLEY,C,,,register 2005,1926CSouth
+PRITCHARD,Sarah,,,register 1089,1926CSouth
+THORPE,,,,register 22,1926CSouth
+QUATREMAIN,G W,,,register 1083,1926CSouth
+SOMERS,A,,,register 1082,1926CSouth
+STRANGE,,,,register 2160,1926CEast
+WINTER,,,,register 21777,1926CEast
+FALL,,,,register 2159,1926CEast
+EVANS,,,,register 2158,1926CEast
