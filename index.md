@@ -3,6 +3,11 @@ title: Introduction
 layout: default
 ---
 
+<div style="border: solid; padding: 0 1em;">
+    <p style="text-align:center;"><b>2024 Pilgrim Path/Churchyard Orchard project</b></p>
+    <p>As part of this project to create a space for quiet contemplation in a nature-friendly plot in the centre of West Malvern, the working party are proposing moving 11 gravestones over 100 years old, to improve the access.  They will be retained within the churchyard, and their original location recorded. (The grave markers are all within Area C) Click <a href="pilgrim_path.html">here</a> for details of the individual gravestones.  If you are a relative of any of the deceased and are concerned about this, please contact the Rev Becky Elliott on 01684 573559.</p>
+</div>
+
 <figure style="float: right; max-width: 250px;">
     <img class="responsive" alt="West Malvern" src="/assets/images/IMG_2841.JPG" />
     <figcaption>St James's Church, West Malvern</figcaption>
