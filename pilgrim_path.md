@@ -11,7 +11,7 @@ As part of this project to create a space for quiet contemplation in a nature-fr
 * **Caroline METCALFE** (1877 – 22/07/1916) Born in London née COOPER, married Henry Fenwick METCALFE in 1914.  Had a son, Geoffrey Fenwick METCALFE.  Hillside, West Malvern and Otto House, West Kensington.
 * **William LLOYD** (1852 – 15/10/1915).  Possibly married Emily HUGHES IN 1880.  Possibly of Woodland Cottage, West Malvern.
 * **Catherine HARRIS** (1838 – 11/11/1915) Born in Eckington.
-* **Robert RUTHERFORD** (1872 – 07/06/1917)  Born Claverdon, Warwickshire.  Was a vet.  Married Annie ROWLEY in 1905.  Daugher Lucie Joyce RUTHERFORD, married George MOONEY, possibly lived on Hornyold Road, Malvern.
+* **Robert RUTHERFORD** (1872 – 07/06/1917)  Born Claverdon, Warwickshire.  Was a vet.  Married Annie ROWLEY in 1905.  Daughter Lucie Joyce RUTHERFORD, married George MOONEY, possibly lived on Hornyold Road, Malvern.
 * **James BIGGS** (27/08/1835 – 10/02/1917) Born in West Malvern, of Rye Croft Cottage, 166 West Malvern Road, West Malvern.  Relative Frank James BIGGS died at this address in 1977.
 * **Esther COLLICOTT** (1842 – 11/01/1916) Born St John’s Worcester.  Sunset View, West Malvern.
 * **Frank GWYNN** (1873 – 04/03/1919) Butcher at The Mount, West Malvern.  Married Esther BROWN IN 1901.
