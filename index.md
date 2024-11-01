@@ -27,10 +27,9 @@ For this purpose we divided the churchyard into three areas with graves, plus th
 The inscriptions particularly on the older graves are often difficult to read and sometimes incomplete.  We have included a few comments and translations and these are all in italics.
  
 * A map of burials in areas C and E has come to light, spanning the period from 2nd August 1915 (when the ground was first taken into use) up until 1st August 1926. These include burials without markers, and therefore might be of help to those wishing to confirm the location of a person's final resting place. References are given to the index number in the parochial burial register, and to the area description on the 1926 map (see Maps page).  In many cases only a surname is given on the 1926 burial map.
- 
-We would like to keep the Project revised and updated and hope you will let us know of any errors or omissions you find and any additional information you can provide so that we can do so!
- 
-Jim and Jenny Nisbet<br>
-[jennywm2@gmail.com](mailto:Jennywm2@gmail.com)
+
+The data records the gravestone and memorials up to August 2021; any additions to the churchyard since then are not reflected here, although errors, omissions and any queries can be directed here: <a href="mailto:westmalvernhistory@gmail.com">westmalvernhistory@gmail.com</a>.
+
+\- Jim and Jenny Nisbet
 
 (Burial registers for 1845-1951 are available to consult on microfilm at Worcestershire Archive & Archaeology Service, the Hive, Worcester.)
