@@ -2,7 +2,6 @@ title: West Malvern Churchyard
 url: "https://www.westmalvernchurchyard.org.uk"
 
 sass:
-  style: compact
   sass_dir: _sass
 
 plugins:
