@@ -5,7 +5,7 @@ layout: default
 
 <div style="border: solid; padding: 0 1em;">
     <p style="text-align:center;"><b>2024 Pilgrim Path/Churchyard Orchard project</b></p>
-    <p>As part of this project to create a space for quiet contemplation in a nature-friendly plot in the centre of West Malvern, the working party are proposing moving 11 gravestones over 100 years old, to improve the access.  They will be retained within the churchyard, and their original location recorded. (The grave markers are all within Area C) Click <a href="pilgrim_path.html">here</a> for details of the individual gravestones.  If you are a relative of any of the deceased and are concerned about this, please contact the Rev Becky Elliott on 01684 573559.</p>
+    <p>As part of this project to create a space for quiet contemplation in a nature-friendly plot in the centre of West Malvern, the working party are proposing moving 11 gravestones over 100 years old, to improve the access.  They will be retained within the churchyard, and their original location recorded. (The grave markers are all within Area C.) Click <a href="pilgrim_path.html">here</a> for details of the individual gravestones.  If you are a relative of any of the deceased and are concerned about this, please contact the Rev Becky Elliott on 01684 573559.</p>
 </div>
 
 <figure style="float: right; max-width: 250px;">
@@ -28,7 +28,7 @@ The inscriptions particularly on the older graves are often difficult to read an
  
 * A map of burials in areas C and E has come to light, spanning the period from 2nd August 1915 (when the ground was first taken into use) up until 1st August 1926. These include burials without markers, and therefore might be of help to those wishing to confirm the location of a person's final resting place. References are given to the index number in the parochial burial register, and to the area description on the 1926 map (see Maps page).  In many cases only a surname is given on the 1926 burial map.
 
-The data records the gravestone and memorials up to August 2021; any additions to the churchyard since then are not reflected here, although errors, omissions and any queries can be directed here: <a href="mailto:westmalvernhistory@gmail.com">westmalvernhistory@gmail.com</a>.
+The data records the gravestones and memorials up to August 2021; any additions to the churchyard since then are not reflected here, although errors, omissions and any queries can be directed here: <a href="mailto:westmalvernhistory@gmail.com">westmalvernhistory@gmail.com</a>.
 
 \- Jim and Jenny Nisbet
 
