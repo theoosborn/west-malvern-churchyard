@@ -32,4 +32,10 @@ The data records the gravestones and memorials up to August 2021; any additions 
 
 \- Jim and Jenny Nisbet
 
+***
+
 (Burial registers for 1845-1951 are available to consult on microfilm at Worcestershire Archive & Archaeology Service, the Hive, Worcester.)
+
+The recording of the information and the creation of this website was all carried out by volunteers, in order to share the information with all who might be interested.  If you would like support the parish's work to maintain this lovely churchyard perched on the slopes of the Malvern Hills, you can do so via this button:
+
+<a href="https://givealittle.co/c/stjameswestmalvern" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; text-align: center; text-decoration: none; border-radius: 5px;">Donate</a>
