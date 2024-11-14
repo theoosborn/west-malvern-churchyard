@@ -5,7 +5,7 @@ layout: default
 
 <div style="border: solid; padding: 0 1em;">
     <p style="text-align:center;"><b>2024 Pilgrim Path/Churchyard Orchard project</b></p>
-    <p>As part of this project to create a space for quiet contemplation in a nature-friendly plot in the centre of West Malvern, the working party are proposing moving 11 gravestones over 100 years old, to improve the access.  They will be retained within the churchyard, and their original location recorded. (The grave markers are all within Area C) Click <a href="pilgrim_path.html">here</a> for details of the individual gravestones.  If you are a relative of any of the deceased and are concerned about this, please contact the Rev Becky Elliott on 01684 573559.</p>
+    <p>As part of this project to create a space for quiet contemplation in a nature-friendly plot in the centre of West Malvern, the working party are proposing moving 11 gravestones over 100 years old, to improve the access.  They will be retained within the churchyard, and their original location recorded. (The grave markers are all within Area C.) Click <a href="pilgrim_path.html">here</a> for details of the individual gravestones.  If you are a relative of any of the deceased and are concerned about this, please contact the Rev Becky Elliott on 01684 573559.</p>
 </div>
 
 <figure style="float: right; max-width: 250px;">
@@ -27,10 +27,15 @@ For this purpose we divided the churchyard into three areas with graves, plus th
 The inscriptions particularly on the older graves are often difficult to read and sometimes incomplete.  We have included a few comments and translations and these are all in italics.
  
 * A map of burials in areas C and E has come to light, spanning the period from 2nd August 1915 (when the ground was first taken into use) up until 1st August 1926. These include burials without markers, and therefore might be of help to those wishing to confirm the location of a person's final resting place. References are given to the index number in the parochial burial register, and to the area description on the 1926 map (see Maps page).  In many cases only a surname is given on the 1926 burial map.
- 
-We would like to keep the Project revised and updated and hope you will let us know of any errors or omissions you find and any additional information you can provide so that we can do so!
- 
-Jim and Jenny Nisbet<br>
-[jennywm2@gmail.com](mailto:Jennywm2@gmail.com)
+
+The data records the gravestones and memorials up to August 2021; any additions to the churchyard since then are not reflected here, although errors, omissions and any queries can be directed here: <a href="mailto:westmalvernhistory@gmail.com">westmalvernhistory@gmail.com</a>.
+
+\- Jim and Jenny Nisbet
+
+***
 
 (Burial registers for 1845-1951 are available to consult on microfilm at Worcestershire Archive & Archaeology Service, the Hive, Worcester.)
+
+The recording of the information and the creation of this website was all carried out by volunteers, in order to share the information with all who might be interested.  If you would like support the parish's work to maintain this lovely churchyard perched on the slopes of the Malvern Hills, you can do so via this button:
+
+<a href="https://givealittle.co/c/stjameswestmalvern" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; text-align: center; text-decoration: none; border-radius: 5px;">Donate</a>
