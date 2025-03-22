@@ -4,8 +4,10 @@ layout: default
 ---
 
 <div style="border: solid; padding: 0 1em;">
-    <p style="text-align:center;"><b>2024 Pilgrim Path/Churchyard Orchard project</b></p>
-    <p>As part of this project to create a space for quiet contemplation in a nature-friendly plot in the centre of West Malvern, the working party are proposing moving 11 gravestones over 100 years old, to improve the access.  They will be retained within the churchyard, and their original location recorded. (The grave markers are all within Area C.) Click <a href="pilgrim_path.html">here</a> for details of the individual gravestones.  If you are a relative of any of the deceased and are concerned about this, please contact the Rev Becky Elliott on 01684 573559.</p>
+    <p>The recording of the information and the creation of this website was all carried out by volunteers, in order to share the information with all who might be interested.  If you would like support the parish's work to maintain this lovely churchyard perched on the slopes of the Malvern Hills, you can do so via this button:</p>
+
+    <a href="https://givealittle.co/c/stjameswestmalvern" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; text-align: center; text-decoration: none; border-radius: 5px;">Donate</a>
+
 </div>
 
 <figure style="float: right; max-width: 250px;">
@@ -35,7 +37,3 @@ The data records the gravestones and memorials up to August 2021; any additions 
 ***
 
 (Burial registers for 1845-1951 are available to consult on microfilm at Worcestershire Archive & Archaeology Service, the Hive, Worcester.)
-
-The recording of the information and the creation of this website was all carried out by volunteers, in order to share the information with all who might be interested.  If you would like support the parish's work to maintain this lovely churchyard perched on the slopes of the Malvern Hills, you can do so via this button:
-
-<a href="https://givealittle.co/c/stjameswestmalvern" class="button" style="display: inline-block; padding: 10px 20px; font-size: 16px; font-weight: bold; text-align: center; text-decoration: none; border-radius: 5px;">Donate</a>
